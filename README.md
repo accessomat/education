@@ -161,18 +161,18 @@ Blink 182 - Online Songs
 Blink 182 - The Rock Show  
 Blink 182 - What’s My Age Again  
 Blondie - Danis Danis  
-[Blood Command - Afraid of Water](https://www.youtube.com/watch?v=RzZ0ouAqT1Q)
+[Blood Command - Afraid of Water](https://www.youtube.com/watch?v=RzZ0ouAqT1Q)  
 [Blood Command - Alarm All Assassins](www.youtube.com/watch?v=feQqGIxFVFY)  
 [Blood Command - Art For The Sake Of Art](www.youtube.com/watch?v=O5Pat2k0Eg0)  
 [Blood Command - Cult Drugs](https://www.youtube.com/watch?v=xnDJ15VHbAE)  
-[Blood Command - Cult Of The New Beat](https://www.youtube.com/watch?v=2gcL3KFcbLw)  
+[Blood Command - Cult Of The New Beat](https://www.youtube.com/watch?v=2gcL3KFcbLw)    
 [Blood Command - Every Exception Has it’s Rule](https://www.youtube.com/watch?v=3-KPkaxmGK4)   
 [Blood Command - Hand Us the Alpha Male](www.youtube.com/watch?v=M1EPu6bV8Ag)  
 [Blood Command - High Five For Life](www.youtube.com/watch?v=rM66iOc8uYs)  
 [Blood Command - On And On Chameleon](www.youtube.com/watch?v=mQmBAMaGbMk)  
-[Blood Command - Party All The Way To The Hospital](https://www.youtube.com/watch?v=ONtTBCuaFIM)  
-[Blood Command - Summon The Arsonist](www.youtube.com/watch?v=M1EPu6bV8Ag)
-[Blood Command - (The World Covered In) Purple Shrouds](https://www.youtube.com/watch?v=8HzTKgP_KTE)
+[Blood Command - Party All The Way To The Hospital](https://www.youtube.com/watch?v=ONtTBCuaFIM)   
+[Blood Command - Summon The Arsonist](www.youtube.com/watch?v=M1EPu6bV8Ag)  
+[Blood Command - (The World Covered In) Purple Shrouds](https://www.youtube.com/watch?v=8HzTKgP_KTE)  
 Bloodhound Gang - Along Comes Marry  
 Bloodhound Gang - Foxtrot Uniform Charlie Kilo  
 Bloodhound Gang - Going Nowhere Slow  
@@ -291,12 +291,13 @@ Dan Le Sac Vs Scroobius Pip - Thou Shalt Always Kill (De La Edit) Feat Posdnous
 [Daniel Wirtz - Keine Angst](www.youtube.com/watch?v=2Mjc-D1PDRM)  
 Daniel Wirtz - Weil Ich So Bin  
 Damageplan - Explode  
-Dark Funeral - The Arrival Of Satan’s Empire  
+[Dark Funeral - The Arrival Of Satan’s Empire](https://www.youtube.com/watch?v=dtHRDiH5nWw)  
 [Dark Tranquility - The Wonders At Your Feet](www.youtube.com/watch?v=YFEOelTOzkc)  
 [David Bowie - Ashes To Ashes](www.youtube.com/watch?v=CMThz7eQ6K0)  
 [David Bowie - Moonage Daydream](www.youtube.com/watch?v=EVCB_79T2cw)  
 [David Guetta - Delirious (Feat. Tara Mc Donald)](www.youtube.com/watch?v=NDJoOnHU7n0)  
 [Dead Kennedys - Kill The Poor](www.youtube.com/watch?v=sgpa7wEAz7I)  
+[Dead Kennedys - Take This Job and Shove It](https://www.youtube.com/watch?v=gjlxSRzJI4Y)  
 [Dead To Me - Don’t Lie](www.youtube.com/watch?v=ZqUuZXjFGGE)  
 [Dead To Me - Fear is the New Bliss](www.youtube.com/watch?v=Fp0X-U_0OBQ)  
 [Dead Prez - Globalization (Scene Of The Crime)](www.youtube.com/watch?v=3WFXlsTSREQ)  
@@ -307,7 +308,7 @@ Dark Funeral - The Arrival Of Satan’s Empire
 [Deichkind - Leider Geil](www.youtube.com/watch?v=ZPJlyRv_IGI)  
 [Deicide - Homage For Satan](www.youtube.com/watch?v=IJkMrl4AG8w)  
 [Deicide - Scars Of The Crusefix](www.youtube.com/watch?v=-l-OiglL460)  
-Descendents - I’m the One  
+[Descendents - I’m the One](https://www.youtube.com/watch?v=yOfvPNaNEMA)  
 Destruction - Nailed To The Cross  
 [Devastating Enemy - As Bloodshed Begins](https://www.youtube.com/watch?v=PVzlOu4L9hA)  
 Devildriver - Clouds Over California  
