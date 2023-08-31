@@ -161,15 +161,18 @@ Blink 182 - Online Songs
 Blink 182 - The Rock Show  
 Blink 182 - What’s My Age Again  
 Blondie - Danis Danis  
+[Blood Command - Afraid of Water](https://www.youtube.com/watch?v=RzZ0ouAqT1Q)
 [Blood Command - Alarm All Assassins](www.youtube.com/watch?v=feQqGIxFVFY)  
 [Blood Command - Art For The Sake Of Art](www.youtube.com/watch?v=O5Pat2k0Eg0)  
-Blood Command - Cult Of The New Beat  
-Blood Command - Every Exception Has it’s Rule  
+[Blood Command - Cult Drugs](https://www.youtube.com/watch?v=xnDJ15VHbAE)  
+[Blood Command - Cult Of The New Beat](https://www.youtube.com/watch?v=2gcL3KFcbLw)  
+[Blood Command - Every Exception Has it’s Rule](https://www.youtube.com/watch?v=3-KPkaxmGK4)   
 [Blood Command - Hand Us the Alpha Male](www.youtube.com/watch?v=M1EPu6bV8Ag)  
 [Blood Command - High Five For Life](www.youtube.com/watch?v=rM66iOc8uYs)  
 [Blood Command - On And On Chameleon](www.youtube.com/watch?v=mQmBAMaGbMk)  
-Blood Command - Party All The Way To The Hospital  
-[Blood Command - Summon The Arsonist](www.youtube.com/watch?v=M1EPu6bV8Ag)  
+[Blood Command - Party All The Way To The Hospital](https://www.youtube.com/watch?v=ONtTBCuaFIM)  
+[Blood Command - Summon The Arsonist](www.youtube.com/watch?v=M1EPu6bV8Ag)
+[Blood Command - (The World Covered In) Purple Shrouds](https://www.youtube.com/watch?v=8HzTKgP_KTE)
 Bloodhound Gang - Along Comes Marry  
 Bloodhound Gang - Foxtrot Uniform Charlie Kilo  
 Bloodhound Gang - Going Nowhere Slow  
