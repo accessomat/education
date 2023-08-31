@@ -589,7 +589,7 @@ Johnossi – Execution song
 [Kellerkommando – Mondscheinbrüder](www.youtube.com/watch?v=c4w8L-kRHB8)  
 [Kendrick Lamar – King Kunta](www.youtube.com/watch?v=hRK7PVJFbS8)  
 [Kenny Wayne Sheperd – Blue On Black](www.youtube.com/watch?v=UulEF42mlVQ)  
-[Kenny Wayne Sheperd – Everything Is Broken](www.youtube.com/watch?v=ZXgtKUpu4Sw)
+[Kenny Wayne Sheperd – Everything Is Broken](www.youtube.com/watch?v=ZXgtKUpu4Sw)   
 [Kettcar - Sommer '89 (Er schnitt Löcher in den Zaun)](https://www.youtube.com/watch?v=UIE8uHNUeRA)   
 [Kids Insane – Don’t Need This](www.youtube.com/watch?v=bnkIlq3LOXo)  
 [Kill The Drive – Monsters In My Bed](www.youtube.com/watch?v=rE_JViineB0)  
@@ -1005,8 +1005,9 @@ Rise Against – Architects
 Rise Against – Behind Closed Doors (&Smadar Avidan)  
 Rise Against – Collapse (Post – America)  
 Rise Against – Give It All  
-Rise Against – Help is on the Way  
-Rise Against – Injection  
+[Rise Against – Help is on the Way](https://www.youtube.com/watch?v=JHiqGqoIGII)   
+[Rise Against - House On Fire](https://www.youtube.com/watch?v=0DaR0GsFYVY)   
+[Rise Against – Injection](https://www.youtube.com/watch?v=fO9QbLih3GY)     
 Rise Against – Make It Stop (September’s Children)  
 Rise Against – Paper Wings  
 Rise Against – Re-Education (Through Labor)  
