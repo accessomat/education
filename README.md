@@ -580,7 +580,7 @@ Johnny Cash – Personal Jesus
 [Johnny Mauser & Captain Gips – On A Journey feat. Marie Curry](https://www.youtube.com/watch?v=vC2eD2j-XQE)  
 [Johnny Winter – Highway 61 Revisited](https://www.youtube.com/watch?v=yclRjptWlW8)  
 Johnossi – Execution song  
-Jonny Lang – Beautiful One  
+[Jonny Lang – Beautiful One](https://www.youtube.com/watch?v=xi67r6shjFI)  
 [Jonny Lang – Walking Away](www.youtube.com/watch?v=Olk7mNK-VyE)  
 [Kalmah – Heroes To Us](www.youtube.com/watch?v=rRsdU-kh_pw)  
 [Käptn Peng & Die Tentakel von Delphi – Der Anfang ist nah](www.youtube.com/watch?v=vqRWMDv0r78)  
@@ -589,11 +589,12 @@ Jonny Lang – Beautiful One
 [Kellerkommando – Mondscheinbrüder](www.youtube.com/watch?v=c4w8L-kRHB8)  
 [Kendrick Lamar – King Kunta](www.youtube.com/watch?v=hRK7PVJFbS8)  
 [Kenny Wayne Sheperd – Blue On Black](www.youtube.com/watch?v=UulEF42mlVQ)  
-[Kenny Wayne Sheperd – Everything Is Broken](www.youtube.com/watch?v=ZXgtKUpu4Sw)  
+[Kenny Wayne Sheperd – Everything Is Broken](www.youtube.com/watch?v=ZXgtKUpu4Sw)
+[Kettcar - Sommer '89 (Er schnitt Löcher in den Zaun)](https://www.youtube.com/watch?v=UIE8uHNUeRA)   
 [Kids Insane – Don’t Need This](www.youtube.com/watch?v=bnkIlq3LOXo)  
 [Kill The Drive – Monsters In My Bed](www.youtube.com/watch?v=rE_JViineB0)  
 [Killswitch Engage – Rose Of Sharyn](www.youtube.com/watch?v=PgMsACFMIq8)  
-Kim Wilde – Kids In America  
+[Kim Wilde – Kids In America](https://www.youtube.com/watch?v=UqMcevcUmqg)  
 Kinderzimmer Productions – Irgendwo Zwischen  
 [King Blues, The – Headbutt](www.youtube.com/watch?v=n3kuhqcx_Ho)  
 [King Blues, The – I Want You](www.youtube.com/watch?v=rzln68aCn8s)  
@@ -702,14 +703,15 @@ Massive Attack – Dissolved Girl
 [Matterhorn Project – Muh](https://www.youtube.com/watch?v=CR3FCY9P4xo)  
 [Maylene And The Sons Of Disaster – Step Up (I’m On It)](https://www.youtube.com/watch?v=rNgYa39BQIw)  
 Maylene And The Sons Of Disaster – Dry The River  
-Maylene And The Sons Of Disaster – Just A Shock  
+[Maylene And The Sons Of Disaster – Just A Shock](https://www.youtube.com/watch?v=c3K3TUMr4CY)  
 [Maylene And The Sons Of Disaster – Just Wanted To Make Mother Proud](www.youtube.com/watch?v=pnlEIU8EOpY)  
 [Maylene And The Sons Of Disaster – Tough As John Jacobs](www.youtube.com/watch?v=sxNu9rLKxF0)  
+[Mayonesa - Night Has Gone](https://www.youtube.com/watch?v=yWQ7v-PyKO4)   
 [Mayonesa – Teenage](www.youtube.com/watch?v=nwJ3fVIN98c)  
 [MC Hammer – U Cant Touch This](www.youtube.com/watch?v=otCpCn0l4Wo) (&Shahar Lev)  
 [Me And That Man – My Church Is Black](www.youtube.com/watch?v=4XBB8CNHs4U)  
 [Medison – Harry (Bare Noize Remix)](www.youtube.com/watch?v=l6doLyDy_v0)  
-Megadeth – 99 Ways To Die  
+[Megadeth – 99 Ways To Die](https://www.youtube.com/watch?v=isbp_VyKAzQ)  
 Megadeth – Anarchy In The UK  
 Megadeth – Back In The Day  
 Megadeth – I Thought I knew It All  
@@ -1350,7 +1352,8 @@ Zyklon – An Eclectic Manner
 [קוקו בלוף והיתושים – זעם ושנאה](www.youtube.com/watch?v=CsSn2uCa6gs)  
 [קוקו בלוף והיתושים – שאול החקלאי](www.youtube.com/watch?v=U03fuYCXNQw)  
 [קוקו בלוף והיתושים – שנקין](//youtu.be/Du3LutWhrCo?t=2070)  
-[קין והבל 90210 – אפריים המשובח](www.youtube.com/watch?v=6HtGeVo0fA8)  
+[קין והבל 90210 – אפריים המשובח](www.youtube.com/watch?v=6HtGeVo0fA8)   
+[קין והבל 90210 - המכונה](https://www.youtube.com/watch?v=xNbe7RCzueU)   
 [קין והבל 90210 – מאסטר יהודי](www.youtube.com/watch?v=PTM0qeHG3d8)  
 [קלקידן – אל תשפוט](www.youtube.com/watch?v=poZ0toZnGPU)  
 [רונה קינן – מעשנים בשרשרת](www.youtube.com/watch?v=2aFOk77S8MQ)  
