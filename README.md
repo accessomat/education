@@ -10,40 +10,66 @@ This list is missing some songs, suggest those songs I forgot
 last update : 2023-09-03 (SPD, new format)
 
 
-\#
-A
-B
-C
-D
-E
-F
-G
-H
-I
-J
-K
-L
-M
-N
-[O](##O)
-P
-Q
-R
-S
-T
-U
-V
-W
-X
-Y
-Z
+[\#](#\#)
+[A](#A)
+[B](#B)
+[C](#C)
+[D](#D)
+[E](#E)
+[F](#F)
+[G](#G)
+[H](#H)
+[I](#I)
+[J](#J)
+[K](#K)
+[L](#L)
+[M](#M)
+[N](#N)
+[O](#O)
+[P](#P)
+[Q](#Q)
+[R](#R)
+[S](#S)
+[T](#T)
+[U](#U)
+[V](#V)
+[W](#W)
+[X](#X)
+[Y](#Y)
+[Z](#Z)
 
+[א](#א)
+[ב](#ב)
+[ג](#ג)
+[ד](#ד)
+[ה](#ה)
+[ו](#ו)
+[ז](#ז)
+[ח](#ח)
+[ט](#ט)
+[י](#י)
+[כ](#כ)
+[ל](#ל)
+[מ](#מ)
+[נ](#נ)
+[ס](#ס)
+[ע](#ע)
+[פ](#פ)
+[צ](#צ)
+[ק](#ק)
+[ר](#ר)
+[ש](#ש)
+[ת](#ת)
+
+## \#
 +44 - 155  
 +44 - When Your Heart Stop Beating  
 [257ers - Warum](https://www.youtube.com/watch?v=pUYxqcBw0gA)  
 [3 Feet Smaller - Lead Or Follow feat. Ferris MC](https://www.youtube.com/watch?v=gzF73nWXsqM)  
 3 Feet Smaller - Lie Baby, Lie!  
 65daysofstatic - Retreat! Retreat!  
+## A
+
 A - Nothing  
 [A Day To Remember - All I Want](https://www.youtube.com/watch?v=Pn-6eOxnEMI)  
 [A Day To Remember - I’m Made Of Wax, Larry, What Are You Made Of?](https://www.youtube.com/watch?v=08PszRp2cBg)  
@@ -138,6 +164,8 @@ Avantasia - Avantasia
 Azealia Banks - 212  
 Azealia Banks - Liquorice  
 Azealia Banks - Yung Rapunxel  
+## B
+
 [B. Fleischmann - Pass By](https://www.youtube.com/watch?v=SFxC9GNtXak)  
 [Bakkushan - Springwut](https://www.youtube.com/watch?v=U0tF4UbbIjk)  
 [Balsam Range - Burning Georgia Down](https://www.youtube.com/watch?v=NpVIOxBhUMk)  
@@ -1320,19 +1348,22 @@ Wolfmother - Woman
 X-Ecutioners - Rock The Bells  
 [X-Ecutioners - It’s Goin’ Down](https://www.youtube.com/watch?v=P0nyy6AcfY4)  
 [Your Demise - Life Of Luxury](https://www.youtube.com/watch?v=h0xkN7GD5_o)  
+##Z
 [Zac Brown Band - Heavy Is The Head ft. Chris Cornell](https://www.youtube.com/watch?v=WWBm4Tx2bRo)  
 [Zakk Wylde - Cry Me A River](https://www.youtube.com/watch?v=jhlqwlNMP6Q)  
 Zakk Wylde - Machine Gun Man  
 [ZSK - Keine Angst](https://www.youtube.com/watch?v=8Z9AXkioKFw)  
 [ZSK - We Will Stop You](https://www.youtube.com/watch?v=u4xt7ptPku8&has_verified=1)  
-Zyklon - An Eclectic Manner  
+[Zyklon - An Eclectic Manner](https://www.youtube.com/watch?v=bzUvgccK41E)    
 [Zyklon - Core Solution](https://www.youtube.com/watch?v=pTUe2XLeUyc)  
 [Zyklon - Psyclon Aeon](https://www.youtube.com/watch?v=9ojfUcR6znc)  
 [ZZ Top - Cheap Sunglasses](https://www.youtube.com/watch?v=cKKJV0Aiiv0)  
 [ZZ Top - La Grange](https://www.youtube.com/watch?v=Vppbdf-qtGU)  
 [ZZ Top - Sharp Dressed Man](https://www.youtube.com/watch?v=Pn2-b_opVTo)
 
+## א
 [אבטיפוס - בוקר טוב עולם](https://www.youtube.com/watch?v=I2OKUsA3X0M)  
+[אבי עדאקי - אבק הנסיעות](https://www.youtube.com/watch?v=U_dTtQPDc0g)  
 [אורטגה - סרטים](https://www.youtube.com/watch?v=nauCGP8W4s0)  
 [אורלי פרל - לילות בלי מילים](https://www.youtube.com/watch?v=PWksp_AsmwU)  
 [אורן זילברשטיין - אולי כן עבר](https://www.youtube.com/watch?v=zTzJymFRIMU)  
