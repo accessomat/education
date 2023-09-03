@@ -1035,12 +1035,13 @@ Rage Against The Machine - Voice Of The Voiceless
 Rage Against The Machine - Wake Up  
 Rage Against The Machine - Year Of The Boomerang  
 Raging Speedhorn - Thumper  
-Raised Fist - Breaking Me Up  
+[Raised Fist - Breaking Me Up](https://www.youtube.com/watch?v=I6F8tcASBaQ)    
 [Raised Fist - Dedication](https://www.youtube.com/watch?v=HEwfLS7Nvsc)  
 [Raised Fist - Friends And Traitors](https://www.youtube.com/watch?v=hez7bGbutBs)  
 [Raised Fist - Illustration of Desperation](https://www.youtube.com/watch?v=NDhLm8eYjQg)  
 [Raised Fist - Some Of These Times](https://www.youtube.com/watch?v=AL3LUZDLkuQ)  
 [Rammstein - America](https://www.youtube.com/watch?v=NteVmdoo1yI)  
+[Rammstein - Angst](https://www.youtube.com/watch?v=ONj9cvHCado)  
 [Rammstein - Benzin](https://www.youtube.com/watch?v=z0wK6s-6cbo)  
 Rammstein - Buck Dich  
 Rammstein - Ein Lied  
@@ -1059,7 +1060,8 @@ Rammstein - Reise Reise
 Rammstein - Rosenrot  
 Rammstein - Seeman  
 Rammstein - Sonne  
-Rammstein - Wo Bist Du  
+[Rammstein - Spieluhr](https://www.youtube.com/watch?v=bWtYzU40N-M)  
+[Rammstein - Wo Bist Du](https://www.youtube.com/watch?v=7Rd5ltFFQDI)  
 Rammstein - Zertstorn  
 Red Hot Chilli Peppers - By The Way  
 Red Hot Chilli Peppers - Californication  
