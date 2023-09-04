@@ -1368,7 +1368,7 @@ Wiley Ft. Chew Fu - Take That
 Wolfmother - New Moon Rising  
 Wolfmother - Woman
 ## X
-X-Ecutioners - Rock The Bells  
+[X-Ecutioners - Rock The Bells](https://www.youtube.com/watch?v=QdlpBHnZO3c)  
 [X-Ecutioners - It’s Goin’ Down](https://www.youtube.com/watch?v=P0nyy6AcfY4)  
 ## Y
 [Your Demise - Life Of Luxury](https://www.youtube.com/watch?v=h0xkN7GD5_o)  
@@ -1459,14 +1459,19 @@ X-Ecutioners - Rock The Bells
 ## צ
 [צנזורה - טבע](https://www.youtube.com/watch?v=CpRsNZtmQ-s)
 ## ק
-[קוקו בלוף והיתושים - Fighters Of Freedom](//youtu.be/Du3LutWhrCo?t=1085)  
+[קוקו בלוף והיתושים - Fighters Of Freedom](https://youtu.be/Du3LutWhrCo?t=1085)  
+[קוקו בלוף והיתושים - אור של קיץ](https://www.youtube.com/watch?v=ZXzTjA28348)  
 [קוקו בלוף והיתושים - הבית של פיסטוק](https://www.youtube.com/watch?v=BcPNzqlcsSw)  
 [קוקו בלוף והיתושים - זעם ושנאה](https://www.youtube.com/watch?v=CsSn2uCa6gs)  
 [קוקו בלוף והיתושים - שאול החקלאי](https://www.youtube.com/watch?v=U03fuYCXNQw)  
-[קוקו בלוף והיתושים - שנקין](//youtu.be/Du3LutWhrCo?t=2070)  
+[קוקו בלוף והיתושים - שנקין](https://youtu.be/Du3LutWhrCo?t=2070)  
 [קין והבל 90210 - אפריים המשובח](https://www.youtube.com/watch?v=6HtGeVo0fA8)   
-[קין והבל 90210 - המכונה](https://www.youtube.com/watch?v=xNbe7RCzueU)   
+[קין והבל 90210 - המכונה](https://www.youtube.com/watch?v=xNbe7RCzueU)  
+[קין והבל 90210 - הצגה אחרונה](https://www.youtube.com/watch?v=rcH0DrWPIbA)  
+[קין והבל 90210 - הר הזהב](https://www.youtube.com/watch?v=Z51kIjjBHIA) (&Rani Levi)  
+[קין והבל 90210 - זה בא מלמעלה](https://www.youtube.com/watch?v=lv2nu5YHqTI)  
 [קין והבל 90210 - מאסטר יהודי](https://www.youtube.com/watch?v=PTM0qeHG3d8)  
+[קין והבל 90210 - נפילה חופשיט](https://www.youtube.com/watch?v=AJQNxkYzvLc)  
 [קלקידן - אל תשפוט](https://www.youtube.com/watch?v=poZ0toZnGPU)
 ## ר
 [רונה קינן - מעשנים בשרשרת](https://www.youtube.com/watch?v=2aFOk77S8MQ)  
