@@ -899,17 +899,18 @@ Nick Cave And The Bad Seeds - O’mally’s Bar
 [Offspring, The - Million Miles Away (&Rimon Shay)](https://www.youtube.com/watch?v=g5f-2u1gX6Y)  
 [Offspring, The - Staring At The Sun](https://www.youtube.com/watch?v=fNZooFfxW48)  
 Offspring, The - The Kids Aren’t Alright  
-Offspring, The - Want You Bad  
+[Offspring, The - Want You Bad](https://www.youtube.com/watch?v=_g19fCJotPc)  
 [Offspring, The - Way Down The Line](https://www.youtube.com/watch?v=yPhVTnjv1IY)  
 [Offspring, The - You’re Gonna Go Far Kid](https://www.youtube.com/watch?v=5_LxyhCJpsM)  
-[OK Kid - Blüte dieser Zeit](https://www.youtube.com/watch?v=vZep_cYgJMU)  
-[OK Kid - Grundlos](https://www.youtube.com/watch?v=WCAHviO8J1I)  
-[OK Kid - Gute Menschen](https://www.youtube.com/watch?v=u-Tz6XXE6Bk)  
-[OK Kid - Kaffee warm](https://www.youtube.com/watch?v=zXkO2XTzIIQ) ([Atlantik session](https://www.youtube.com/watch?v=TZ7FzY4d6oo))  
-[OK Kid - Stadt ohne Meer](https://www.youtube.com/watch?v=Ym52d3XvsWw)  
+[OK KID - Blüte dieser Zeit](https://www.youtube.com/watch?v=vZep_cYgJMU)  
+[OK KID - Grundlos](https://www.youtube.com/watch?v=WCAHviO8J1I)  
+[OK KID - Gute Menschen](https://www.youtube.com/watch?v=u-Tz6XXE6Bk)  
+[OK KID - Kaffee warm](https://www.youtube.com/watch?v=zXkO2XTzIIQ) ([Atlantik session](https://www.youtube.com/watch?v=TZ7FzY4d6oo))  
+[OK KID - Lügenhits](https://www.youtube.com/watch?v=AT-x4hkMsQw)  
+[OK KID - Stadt ohne Meer](https://www.youtube.com/watch?v=Ym52d3XvsWw)  
 [One Day As A Lion - If You Fear Dying](https://www.youtube.com/watch?v=ZuG-IsivaDw)  
 [One Day As A Lion - Wild International](https://www.youtube.com/watch?v=6mKtt7F0rPU)  
-Oomph! - Augen Auf  
+[Oomph! - Augen Auf](https://www.youtube.com/watch?v=fuLPJg2gwjQ)  
 Oomph! - Das Weisse Licht  
 [Optiv - Brainworm](https://www.youtube.com/watch?v=X96v0VLczXE)  
 [Orgonite - Habibi Yaeni](https://www.youtube.com/watch?v=7lPyyZ-2rUo)  
