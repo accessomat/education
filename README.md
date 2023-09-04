@@ -164,16 +164,19 @@ Avalanches - Frontier Psychiatrist
 Avantasia - Avantasia  
 Azealia Banks - 212  
 Azealia Banks - Liquorice  
-Azealia Banks - Yung Rapunxel  
+[Azealia Banks - Yung Rapunxel](https://www.youtube.com/watch?v=iFe-sfJeh2E)  
 ## B
 
 [B. Fleischmann - Pass By](https://www.youtube.com/watch?v=SFxC9GNtXak)  
+[Bad Cop / Bad Cop - Womanarchist](https://www.youtube.com/watch?v=LYWpFs8Na9k)  
+[Bad Religion - Drunk Sincerity](https://www.youtube.com/watch?v=VtSaiXSbRmQ)  
+[Bad Religion - Punk Rock Song](https://www.youtube.com/watch?v=S_Xm9BzpwPc)  
 [Bakkushan - Springwut](https://www.youtube.com/watch?v=U0tF4UbbIjk)  
 [Balsam Range - Burning Georgia Down](https://www.youtube.com/watch?v=NpVIOxBhUMk)  
 [Balsam Range - Papertown](https://www.youtube.com/watch?v=qLsS1haRbyM)  
 [Basement Jaxx - Where’s Your Head At](https://www.youtube.com/watch?v=5rAOyh7YmEc)  
 [Beastie Boys - Sabotage](https://www.youtube.com/watch?v=z5rRZdiu1UE)  
-Beatles, The - Across The Universe  
+[Beatles, The - Across The Universe](https://www.youtube.com/watch?v=90M60PzmxEE)  
 Beatles, The - Lucy In The Sky  
 Beatles, The - Nowhere Man  
 Beatles, The - Only A Northern Song  
@@ -182,6 +185,7 @@ Beatles, The - Only A Northern Song
 [Being As An Ocean - Salute e Vita](https://www.youtube.com/watch?v=8zWeDkxXWfc)  
 [Bela Fleck and The Flecktones - Stomping Grounds](https://www.youtube.com/watch?v=UoLXtj0aCiM)  
 [Benny Benassi - Cinema (Skrillex Remix)](https://www.youtube.com/watch?v=B-nVfx7Rvrc)  
+[Beths, The - I'm Not Getting Excited](https://www.youtube.com/watch?v=lvYrJxNwW5I)  
 [Betontod - Glück auf](https://www.youtube.com/watch?v=bt4lz8z4hBA)  
 [Berzerker, The - All About You](https://www.youtube.com/watch?v=vi0e8Jc2NDQ)  
 Berzerker, The - Corporal Jigsore Quandary  
@@ -243,6 +247,7 @@ Blümchen - Bicycle Race
 [Blümchen - Herz an Herz](https://www.youtube.com/watch?v=eGUsqIPurNQ)  
 [B.o.B - Airplanes ft. Hayley Williams](https://www.youtube.com/watch?v=kn6-c223DUU)  
 Bob Dylan - Hurricane  
+[Bob Vylan - We Live Here](https://www.youtube.com/watch?v=VFqhJyvly1g)  
 [Böhse Onkelz - Auf gute Freunde](https://www.youtube.com/watch?v=pjb2LixZPcE)  
 [Böhse Onkelz - Narben](https://www.youtube.com/watch?v=zgyL0o-8mRs)  
 [Bombpops, The - Grocery Store](https://www.youtube.com/watch?v=FCWep1PO098)  
