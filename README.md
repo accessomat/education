@@ -67,10 +67,11 @@ last update : 2023-09-03 (SPD, new format)
 [257ers - Warum](https://www.youtube.com/watch?v=pUYxqcBw0gA)  
 [3 Feet Smaller - Lead Or Follow feat. Ferris MC](https://www.youtube.com/watch?v=gzF73nWXsqM)  
 3 Feet Smaller - Lie Baby, Lie!  
-65daysofstatic - Retreat! Retreat!  
+[65daysofstatic - Retreat! Retreat!](https://www.youtube.com/watch?v=WneDU-K3Sww)  
+[8º6 Crew - Vieille France](https://www.youtube.com/watch?v=81CkPvG3soU)  
 ## A
 
-A - Nothing  
+[A - Nothing](https://www.youtube.com/watch?v=e0r2Apn7OKA)  
 [A Day To Remember - All I Want](https://www.youtube.com/watch?v=Pn-6eOxnEMI)  
 [A Day To Remember - I’m Made Of Wax, Larry, What Are You Made Of?](https://www.youtube.com/watch?v=08PszRp2cBg)  
 [A Day To Remember - The Plot To Bomb The Panhandle](https://www.youtube.com/watch?v=N1MujfQqLIg)  
