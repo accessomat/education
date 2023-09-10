@@ -407,8 +407,13 @@ Dragonforce - Fury Of The Storm
 Dragonforce - Heroes Of Our Time  
 Dragonforce - My Spirit Will Go On  
 Dragonforce - Through The Fire And The Flames  
-Dream Theater - Never Enough  
-Dritte Wahl - Halt Mich Fest  
+[Dream Theater - Never Enough](https://www.youtube.com/watch?v=EpCUy-91aUo)  
+[Drug Church - But Does It Work?](https://www.youtube.com/watch?v=LAHvzXMRIA0)  
+[Drug Church - Grubby](https://www.youtube.com/watch?v=hh_FhtZIjCc)  
+[Drug Church - Unlicensed Hall Monitor](https://www.youtube.com/watch?v=NvsHS5AJxQA)  
+[Drug Church - Tawny](https://www.youtube.com/watch?v=IkQlFAtpD2M)  
+[Drug Church - Weed Pin](https://www.youtube.com/watch?v=Q_bB3LBYG6E)  
+[Dritte Wahl - Halt Mich Fest](https://www.youtube.com/watch?v=hzH9w8zuuBk)  
 Dritte Wahl - Zeit Bleib Stehen  
 Dubba Jonny - A Brief Tutorial On Vip Production  
 Durrty Goodz - Cokey The Snowman  
