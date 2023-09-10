@@ -1383,8 +1383,8 @@ Whitechapel - Possession
 Who - My Generation  
 Wiley - Never Be Your Woman  
 Wiley Ft. Chew Fu - Take That  
-Wolfmother - New Moon Rising  
-Wolfmother - Woman
+[Wolfmother - New Moon Rising](https://www.youtube.com/watch?v=-O63P9Ecujc)  
+[Wolfmother - Woman](https://www.youtube.com/watch?v=IRsc57nK8mg)  
 ## X
 [X-Ecutioners - Rock The Bells](https://www.youtube.com/watch?v=QdlpBHnZO3c)  
 [X-Ecutioners - It’s Goin’ Down](https://www.youtube.com/watch?v=P0nyy6AcfY4)  
@@ -1417,11 +1417,13 @@ Wolfmother - Woman
 [אינפקציה - סרט של סקס](https://www.youtube.com/watch?v=wnu3te5ule0) (&Eyal Bar)  
 [אינפקציה - קרובים קרובים](https://www.youtube.com/watch?v=11OCJT9l3eA)  
 [אינפקציה - שוקי](https://www.youtube.com/watch?v=3BiD2G1oHE4)  
+[אלי מגן ועדי רנט - בדיוק כמוך](https://www.youtube.com/watch?v=RTsB71f3dsg)  
 [אלפרברוס - רבע שעה פריסה](https://www.youtube.com/watch?v=tLCRJ71YbDg)  
 [אסון - אין תשובה](//aason.bandcamp.com/track/there-is-no-answer)  
 [אסון - ארץ הקודש](//aason.bandcamp.com/track/the-holy-land)  
 [אסון - עבודה עצמית](//aason.bandcamp.com/track/work-on-the-self)  
 [אקוט - ג׳ולייט למעלה](https://www.youtube.com/watch?v=yNsd25JKofw)  
+[אקוט - יום יבוא](https://www.youtube.com/watch?v=5Umld5Crx4Q)  
 [אריק איינשטיין - היא יושבה לחלון](https://www.youtube.com/watch?v=mQDAtnMcwdQ)  
 [אריק איינשטיין - העיר הלבנה](https://www.youtube.com/watch?v=-vWfGW7Hf2E)  
 [אשכרה מתים - חמש דקות מתל אביב](https://www.youtube.com/watch?v=UfbS_dLfOw4)  
@@ -1496,8 +1498,11 @@ Wolfmother - Woman
 [רונה קינן - הפעם האחרונה](https://www.youtube.com/watch?v=WOEVsksJUFk)  
 [רות נודלמן - מלח](https://www.youtube.com/watch?v=bKAF7y7gtyo)  
 [רייסקינדר - ישן בעמידה](https://www.youtube.com/watch?v=eq0S6mTSp6M)  
-[רייסקינדר - לוקסוס](https://www.youtube.com/watch?v=cBzuhdK4c3Q)
+[רייסקינדר - לוקסוס](https://www.youtube.com/watch?v=cBzuhdK4c3Q)  
+[רם אוריון - חיוך קטן](https://www.youtube.com/watch?v=jgGABiaCRzM)  
+[רם אוריון - רינגטון](https://www.youtube.com/watch?v=r5a86tjxx_Y)  
 ## ש
+[שולה חן - פתאום היה לי טוב כל כך](https://www.youtube.com/watch?v=dWlkseY0h0o)  
 [שיטי סיטי - אודסה](https://www.youtube.com/watch?v=xFul7O_SlaE)  
 [שיטי סיטי - הפועל עכו](https://www.youtube.com/watch?v=pls2b1CBiI0)  
 [שיטי סיטי - עם ישראל טראש](https://www.youtube.com/watch?v=rPQA3d5VQjA)  
