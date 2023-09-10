@@ -1346,14 +1346,19 @@ Throwdown - Baby Got Back
 [U2 - Elevation](https://www.youtube.com/watch?v=19KstSgU-c0)  
 Ultramagnetic Mc’s - Give The Drummer Some  
 Unseen - Scream Out  
-Useless ID - Blood Pressure  
+[Useless ID - At Least I Tried](https://www.youtube.com/watch?v=O1VNBUiA6Bg)  
+[Useless ID - Before I Go](https://www.youtube.com/watch?v=G0sMoFA5lKg)  
+[Useless ID - Blood Pressure](https://www.youtube.com/watch?v=AKqECfWZPvo)  
+[Useless ID - Closer to the Edge](https://www.youtube.com/watch?v=qA7xj01MDKM)  
 [Useless ID - Give It Up](https://www.youtube.com/watch?v=e9oOeUFSHp4)  
 [Useless ID - How to Dismantle an Atom Bomb](https://www.youtube.com/watch?v=e9oOeUFSHp4)  
 [Useless ID - Isolate Me](https://www.youtube.com/watch?v=_kboCZqK52c)  
 Useless ID - Misconception  
 Useless ID - Mouse In A Maze  
+[Useless ID - Night Shift](https://www.youtube.com/watch?v=nZPLyUKINRk)  
 Useless ID - Night Stalker  
 Useless ID - Redemption  
+[Useless ID - Suffer For The Fame](https://www.youtube.com/watch?v=-C_6wXienZs)  
 Useless ID - Undecided
 ## V
 Vader - Black To The Blind  
