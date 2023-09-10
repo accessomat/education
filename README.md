@@ -436,13 +436,16 @@ DZK - Torcher
 [Emperor - Empty](https://www.youtube.com/watch?v=czdeHCmzt10)  
 [Enter Shikari - Anaesthetist](https://www.youtube.com/watch?v=V1OIxKYmdG0)  
 [Enter Shikari - Antwerpen](https://www.youtube.com/watch?v=igcyn9uFlMI)  
-Enter Shikari - Destabilise  
-Enter Shikari - Farfare For The Conscious Man  
+[Enter Shikari - Destabilise](https://www.youtube.com/watch?v=PSjaM9E2gr4)  
+[Enter Shikari - The Dreamer's Hotel](https://www.youtube.com/watch?v=hJOiQo2ulyw)  
+[Enter Shikari - Fanfare For The Conscious Man](https://www.youtube.com/watch?v=RUS1XxIE3SE)  
 Enter Shikari - Gap In The Fence  
 Enter Shikari - Hectic  
 [Enter Shikari - Jonny Sniper](https://www.youtube.com/watch?v=K_oFyhXd5P8)  
+Enter Shikari - The Jester
 Enter Shikari - Juggernauts  
 [Enter Shikari - Keep Your Head Up](https://www.youtube.com/watch?v=g0ptCQf44nI)  
+[Enter Shikari - The Last Garrison](https://www.youtube.com/watch?v=TUAgotnkrL4)  
 Enter Shikari - Mothership  
 Enter Shikari - No Sleep Tonight  
 Enter Shikari - No Sssweat  
@@ -451,8 +454,6 @@ Enter Shikari - Quelle Surprise
 [Enter Shikari - Slipshod](https://www.youtube.com/watch?v=8O72jXoMIkg)  
 [Enter Shikari - Sssnankepit](https://www.youtube.com/watch?v=6GgTgQM5D0M)  
 [Enter Shikari - Sssnakepit (Hamilton Remix)](https://www.youtube.com/watch?v=AZ9AFlnwA70)  
-Enter Shikari - The Jester  
-[Enter Shikari - The Last Garrison](https://www.youtube.com/watch?v=TUAgotnkrL4)  
 Enter Shikari - Thumper  
 Enter Shikari - Tribalism  
 Enter Shikari - Wall  
