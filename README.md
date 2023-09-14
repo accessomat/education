@@ -677,7 +677,7 @@ Johnossi - Execution song
 [Kill The Drive - Monsters In My Bed](https://www.youtube.com/watch?v=rE_JViineB0)  
 [Killswitch Engage - Rose Of Sharyn](https://www.youtube.com/watch?v=PgMsACFMIq8)  
 [Kim Wilde - Kids In America](https://www.youtube.com/watch?v=UqMcevcUmqg)  
-Kinderzimmer Productions - Irgendwo Zwischen  
+[Kinderzimmer Productions - Irgendwo Zwischen](https://www.youtube.com/watch?v=0ikIPXLGAVE)  
 [King Blues, The - Headbutt](https://www.youtube.com/watch?v=n3kuhqcx_Ho)  
 [King Blues, The - I Want You](https://www.youtube.com/watch?v=rzln68aCn8s)  
 [King Charles - Love Lust](https://www.youtube.com/watch?v=JN_cOsjErDE)  
@@ -702,6 +702,8 @@ Kinderzimmer Productions - Irgendwo Zwischen
 [Kreator - Violent Revolution](https://www.youtube.com/watch?v=dR7xBj0bDD8)  
 [Kreator - Voices Of The Dead](https://www.youtube.com/watch?v=SMCLXZJc8Uk)  
 [Kreuz Ost - Aufgewacht](https://www.youtube.com/watch?v=lnOTBAl6XVc)  
+[Kvelertak - Blodtørst](https://www.youtube.com/watch?v=r7sIqyoRFiU)  
+[Kvelertak - Bruane Brenn](https://www.youtube.com/watch?v=jD38m5-DD_I)  
 [Kyuss - Green Machine](https://www.youtube.com/watch?v=R-MSfd2S7lo)
 ## L
 [L7 - Everglade](https://www.youtube.com/watch?v=Ie1dmQnMKC8)  
@@ -733,7 +735,7 @@ Kinderzimmer Productions - Irgendwo Zwischen
 [Limp Bizkit - Full Nelson](https://www.youtube.com/watch?v=mE8aROD20Kw)  
 [Limp Bizkit - Hotdog](https://www.youtube.com/watch?v=ZlGyu9EJbmE)  
 [Limp Bizkit - I’m Broke](https://www.youtube.com/watch?v=XOWnUYpBQD8)  
-Limp Bizkit - Just Like This  
+[Limp Bizkit - Just Like This](https://www.youtube.com/watch?v=3toDGoetgoI)  
 Limp Bizkit - Rollin’  
 [Limp Bizkit - Take A Look Around](https://www.youtube.com/watch?v=bPD6YiBFG1Q)  
 [Lindemann - Fish On](https://www.youtube.com/watch?v=eciZWNdkGqs)  
@@ -1382,7 +1384,7 @@ Weezer - Hash Pipe
 Whitechapel - Possession  
 Who - My Generation  
 Wiley - Never Be Your Woman  
-Wiley Ft. Chew Fu - Take That  
+[Wiley Ft. Chew Fu - Take That](https://www.youtube.com/watch?v=KPYrMN9RI80)  
 [Wolfmother - New Moon Rising](https://www.youtube.com/watch?v=-O63P9Ecujc)  
 [Wolfmother - Woman](https://www.youtube.com/watch?v=IRsc57nK8mg)  
 ## X
@@ -1446,6 +1448,7 @@ Wiley Ft. Chew Fu - Take That
 ## ח
 [חבצלת האדמונית - הבלדה על נמרוד](https://www.youtube.com/watch?v=r8IOLDcN3bY)
 ## י
+[יהוא ירון - דברים כבדים כמו כפרה](https://www.youtube.com/watch?v=Z3QbGpIJt8Q)  
 [יזהר אשדות - במרחק נגיעה מכאן](https://www.youtube.com/watch?v=ygp1zQ6bMbM)  
 [יזהר אשדות - מה תאמרי](https://www.youtube.com/watch?v=hzn-1O5NoUI)  
 [יזהר אשדות - צילו של יום קיץ](https://www.youtube.com/watch?v=AEEdPEXjS2U)  
