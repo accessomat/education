@@ -140,14 +140,15 @@ Arctic Monkeys - When The Sun Goes Down
 Arcturus - Kinetic  
 Arlo Guthrie - Motorcycle Song  
 Arrivals - Simple Pleasures In America  
-Ärzte, Die - Deine Schuld  
+[Ärzte, Die - Deine Schuld](https://www.youtube.com/watch?v=kRrP-bZvD2s)  
 [Ärzte, Die - Die Hard](https://www.youtube.com/watch?v=1gi-ntLQ8o8)  
 [Ärzte, Die - Ist das noch punkrock](https://www.youtube.com/watch?v=UjIasSAurB0)  
 [Ärzte, Die - M&F](https://www.youtube.com/watch?v=Yi5_fSv7qXk)  
 [Ärzte, Die - Miststück](https://www.youtube.com/watch?v=CNJ0MWirlrY)  
 [Ärzte, Die - Schrei nach liebe](https://www.youtube.com/watch?v=BmJUtQeiQzA)  
 [Ärzte, Die - TCR](https://www.youtube.com/watch?v=KuCekooaDZA)  
-Audioslave - Be Yourself  
+[Attaque 77 - El Pajaro Canta Hasta Morir](https://www.youtube.com/watch?v=mL6fuu-8PD8)  
+[Audioslave - Be Yourself](https://www.youtube.com/watch?v=WC5FdFlUcl0)  
 Audioslave - Dandelion  
 Audioslave - Heavens Dead  
 Audioslave - I Am The Highway  
@@ -1383,7 +1384,7 @@ Weezer - Buddy Holly
 Weezer - Hash Pipe  
 Whitechapel - Possession  
 Who - My Generation  
-Wiley - Never Be Your Woman  
+[Wiley Ft. Emeli Sandé - Never Be Your Woman](https://www.youtube.com/watch?v=-jiBFV4DSIc)  
 [Wiley Ft. Chew Fu - Take That](https://www.youtube.com/watch?v=KPYrMN9RI80)  
 [Wolfmother - New Moon Rising](https://www.youtube.com/watch?v=-O63P9Ecujc)  
 [Wolfmother - Woman](https://www.youtube.com/watch?v=IRsc57nK8mg)  
@@ -1426,6 +1427,7 @@ Wiley - Never Be Your Woman
 [אסון - עבודה עצמית](//aason.bandcamp.com/track/work-on-the-self)  
 [אקוט - ג׳ולייט למעלה](https://www.youtube.com/watch?v=yNsd25JKofw)  
 [אקוט - יום יבוא](https://www.youtube.com/watch?v=5Umld5Crx4Q)  
+[אקוט - ירושלים](https://www.youtube.com/watch?v=vTlKijjNb-A)  
 [אריק איינשטיין - היא יושבה לחלון](https://www.youtube.com/watch?v=mQDAtnMcwdQ)  
 [אריק איינשטיין - העיר הלבנה](https://www.youtube.com/watch?v=-vWfGW7Hf2E)  
 [אשכרה מתים - חמש דקות מתל אביב](https://www.youtube.com/watch?v=UfbS_dLfOw4)  
@@ -1511,6 +1513,8 @@ Wiley - Never Be Your Woman
 [שיטי סיטי - עם ישראל טראש](https://www.youtube.com/watch?v=rPQA3d5VQjA)  
 [שלומי שבן וחוה אלברשטיין - תרגיל בהתעוררות](https://www.youtube.com/watch?v=EGGfPtSt-Gs)
 ## ת
+[תערובת אסקוט - מתחת להרים](https://www.youtube.com/watch?v=yCu2MBtXzbs)  
+
 
 \* \* \* i’ll be updating this list from time to time with the additional songs
 
