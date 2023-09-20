@@ -266,7 +266,7 @@ Bushido feat. Karel Gott - Für Immer Jung
 [Bunny Lake - Follow the Sun](https://www.youtube.com/watch?v=QFVRgmRFwYk)  
 Busta Rhymes - Break Ya Neck  
 Busta Rhymes - Don’t Touch Me  
-Busta Rhymes - Fire It Up  
+[Busta Rhymes - Fire It Up](https://www.youtube.com/watch?v=3lXGbR58bcc)  
 [Busta Rhymes - Gimme Some More](https://www.youtube.com/watch?v=eHHT7dTmw8U)
 ## C
 [Caliban - The Beloved And The Hatred](https://www.youtube.com/watch?v=40ISKTW77MQ)  
@@ -292,6 +292,8 @@ Busta Rhymes - Fire It Up
 [Casper - XOXO (ft. Thees Uhlmann)](https://www.youtube.com/watch?v=iRcYt8CLqVs)  
 [Casper, Favorite & Kollegah - Mittelfinger hoch](https://www.youtube.com/watch?v=Mm2gXHC6J2U)  
 [Castrovalva - Donut](https://www.youtube.com/watch?v=y5fFi8muoK4)  
+[Catch 22 - 1234](https://www.youtube.com/watch?v=Ffa2ln1DgvE)  
+[Catch 22 - Keasbey Nights](https://www.youtube.com/watch?v=syCMHtNUlLE)  
 [CHAI - N.E.O.](https://www.youtube.com/watch?v=YMGf3zyhG94)  
 [Chase And Status - No Problem feat. Takura](https://www.youtube.com/watch?v=rPRkYWVinF0)  
 [Chase And Status Feat Cee-Lo Green - Brixton Briefcase](https://www.youtube.com/watch?v=-QahyG8f8Sc)  
@@ -300,7 +302,7 @@ Busta Rhymes - Fire It Up
 [Chemical Brothers - Block Rocking Beats](https://www.youtube.com/watch?v=iTxOKsyZ0Lw)  
 [Chemical Brothers - In Dust We Trust](https://www.youtube.com/watch?v=6iiGQmWCCyI)  
 [Children Of Bodom - Trashed, Lost And Strungout](https://www.youtube.com/watch?v=XVifw7Atg2Y)  
-Chimaira - Needle  
+[Chimaira - Needle](https://www.youtube.com/watch?v=wlLd7wN_9Gs)  
 [Chris Cornell - Mission 2000](https://www.youtube.com/watch?v=VqSz16Wgs_0)  
 [Chris Cornell - Moonchild](https://www.youtube.com/watch?v=ZaMfgtnGpTY)  
 Chris Cornell - Pillow Of Your Bones (&Dina Ichilov)  
@@ -320,12 +322,13 @@ Clash, The - Rock The Casbah
 [Clipping. - Work Work (feat. Cocc Pistol Cree)](https://www.youtube.com/watch?v=-2GozE6XEqg)  
 [Cock Sparrer - England Belongs To Me](https://www.youtube.com/watch?v=eU8P0Ufwpl8)  
 Cock Sparrer - Where Are They Now  
-Code Blue And The Panacea - Graveyard Twist  
+[Code Blue And The Panacea - Graveyard Twist](https://www.youtube.com/watch?v=avAT6jnW50w)  
 [Code Blue And The Panacea - Headstone Shuffle](https://www.youtube.com/watch?v=ELEImy6Hnu8)  
 [Comeback Kid - Didn’t Even Mind](https://www.youtube.com/watch?v=6TFN47BFRCU)  
 [Confide - Such Great Heights](https://www.youtube.com/watch?v=GncK6IuY8OA)  
+[Converge - Sadness Comes Home](https://www.youtube.com/watch?v=ncyUDtp_rJk)  
 [Cradle Of Filth - Babylon A.D.](https://www.youtube.com/watch?v=Sz3LtbDXPWQ)  
-Cradle Of Filth - From The Cradle To Enslave  
+[Cradle Of Filth - From The Cradle To Enslave](https://www.youtube.com/watch?v=YnbOhSGVbRg)  
 Cradle Of Filth - Mannequin  
 Cradle Of Filth - No Time To Cry  
 Cradle Of Filth - Schorched Earth Erotica  
