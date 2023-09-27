@@ -1266,7 +1266,7 @@ Stranglers, The - Golden Brown
 [Street Sweeper Social Club - 100 Little Curses](https://www.youtube.com/watch?v=PGhLQScRElI)  
 [Street Sweeper Social Club - Promenade (Radio Remix)](https://www.youtube.com/watch?v=oXX2YIOVkX8)  
 Stretch Armstrong - Faces  
-Sub Dub Micromachine - Road To Nowhere  
+[Sub Dub Micromachine - Road To Nowhere](https://www.youtube.com/watch?v=PA8TaIcJCqY)  
 [Sub Focus - Splash](https://www.youtube.com/watch?v=jkQNrGrMLrU)  
 [Subhumans - Work Rest Play Die](https://www.youtube.com/watch?v=eLs4w7dTvM8)  
 [Suicide Silence - Unanswered](https://www.youtube.com/watch?v=_Yr5rn3Sv_4)  
@@ -1276,8 +1276,9 @@ Sub Dub Micromachine - Road To Nowhere
 [Sum 41 - Walking Disaster](https://www.youtube.com/watch?v=PHx-xqs3hO8)  
 [Sunaivod - No sleep](https://www.youtube.com/watch?v=bSQh3TFtnt0)  
 Sunaivod - Pass The Mic  
+[SuperHeavy - Energy](https://www.youtube.com/watch?v=HNlbYdkJX_Y)  
 [Superjoint Ritual - Dress Like A Target](https://www.youtube.com/watch?v=QV6cZgZJSsA)  
-Suzanne Vega - Blood Makes Noise  
+[Suzanne Vega - Blood Makes Noise](https://www.youtube.com/watch?v=v6qvIhygLTs)  
 Suzanne Vega - Luka  
 Suzanne Vega - Marlene On The Wall (&Tal Tzioni)  
 [Suzanne Vega - The Queen And The Soldier](https://www.youtube.com/watch?v=ukbzD88W2DA)  
@@ -1287,8 +1288,9 @@ System Of A Down - BOOM
 System Of A Down - Bounce  
 System Of A Down - BYOB  
 System Of A Down - Cigaro  
-System Of A Down - Forest  
-System Of A Down - Innervision  
+[System Of A Down - Forest](https://www.youtube.com/watch?v=GkPna4xPJmE)  
+[System Of A Down - Genocidal Humanoidz](https://www.youtube.com/watch?v=9VvmixeowNI)  
+[System Of A Down - Innervision](https://www.youtube.com/watch?v=jjnt-KS0ozE)  
 System Of A Down - Old School Hollywood (&Alon Shofman)  
 System Of A Down - Prison Song  
 System Of A Down - Radio-Video  
