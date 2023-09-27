@@ -377,6 +377,7 @@ Damageplan - Explode
 [Deichkind - Leider Geil](https://www.youtube.com/watch?v=ZPJlyRv_IGI)  
 [Deicide - Homage For Satan](https://www.youtube.com/watch?v=IJkMrl4AG8w)  
 [Deicide - Scars Of The Crusefix](https://www.youtube.com/watch?v=-l-OiglL460)  
+[Demon Hunter ft. Max Cavalera - Defense Mechanism](https://www.youtube.com/watch?v=Rh3RsFSTVqE)   
 [Descendents - I’m the One](https://www.youtube.com/watch?v=yOfvPNaNEMA)  
 Destruction - Nailed To The Cross  
 [Devastating Enemy - As Bloodshed Begins](https://www.youtube.com/watch?v=PVzlOu4L9hA)  
@@ -384,10 +385,10 @@ Devildriver - Clouds Over California
 Dieselboy - Fear-Machine  
 Dieselboy - The Calling  
 Dieselboy - Paris  
-Dillinger Escape Plan, The - Come To Daddy  
-Dillinger Escape Plan, The - Milk Lizzard  
-Dillinger Escape Plan, The - Rebel Yell  
-Dillinger Escape Plan, The - Rock Paper Scissor  
+Dillinger Escape Plan, The - Come To Daddy
+[Dillinger Escape Plan, The - Holliwood Square](https://www.youtube.com/watch?v=rjU3tBiC2gw)  
+[Dillinger Escape Plan, The - Milk Lizzard](https://www.youtube.com/watch?v=xMEYLlDThZU)  
+[Dillinger Escape Plan, The - Rebel Yell](https://www.youtube.com/watch?v=HudD7CIxFm0)  
 Dimmu Borgir - Progenies Of The Great Apocalypse  
 Dire Straits - Boom Like That  
 Dire Straits - Sultans Of Swing  
@@ -1445,7 +1446,8 @@ Who - My Generation
 [הגבעתרון - באה מנוחה ליגע](https://www.youtube.com/watch?v=7Xxjf3vYomQ)  
 [גבריאל בלחסן - אדמה חרבה](https://www.youtube.com/watch?v=0F_mnjQ7Sr8)
 ## ד
-[דני סנדרסון - הזאת שהיא מעל למצופה](https://www.youtube.com/watch?v=0iXuOwB2g2Y)
+[דני סנדרסון - הזאת שהיא מעל למצופה](https://www.youtube.com/watch?v=0iXuOwB2g2Y)  
+[דר גולן - פסח](https://www.facebook.com/dargolans/videos/10152649182705974/)  
 ## ה
 ## ו
 [ויתרתי - השמנתי מלא כדי להשתתף בלרדת בגדול](//vitarti.bandcamp.com/track/--2)  
