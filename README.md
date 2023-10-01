@@ -1393,7 +1393,7 @@ We Are The Ocean - These Days I Have Nothing
 Weezer - Buddy Holly  
 Weezer - Hash Pipe  
 Whitechapel - Possession  
-Who - My Generation  
+[Who - My Generation](https://www.youtube.com/watch?v=qN5zw04WxCc)  
 [Wiley Ft. Emeli Sandé - Never Be Your Woman](https://www.youtube.com/watch?v=-jiBFV4DSIc)  
 [Wiley Ft. Chew Fu - Take That](https://www.youtube.com/watch?v=KPYrMN9RI80)  
 [Wolfmother - New Moon Rising](https://www.youtube.com/watch?v=-O63P9Ecujc)  
@@ -1437,6 +1437,7 @@ Who - My Generation
 [אסון - עבודה עצמית](//aason.bandcamp.com/track/work-on-the-self)  
 [אקוט - ג׳ולייט למעלה](https://www.youtube.com/watch?v=yNsd25JKofw)  
 [אקוט - יום יבוא](https://www.youtube.com/watch?v=5Umld5Crx4Q)  
+[אקוט - יפים יותר](https://www.youtube.com/watch?v=QFvZggsHQ-U)  
 [אקוט - ירושלים](https://www.youtube.com/watch?v=vTlKijjNb-A)  
 [אריק איינשטיין - היא יושבה לחלון](https://www.youtube.com/watch?v=mQDAtnMcwdQ)  
 [אריק איינשטיין - העיר הלבנה](https://www.youtube.com/watch?v=-vWfGW7Hf2E)  
@@ -1462,9 +1463,12 @@ Who - My Generation
 [חבצלת האדמונית - הבלדה על נמרוד](https://www.youtube.com/watch?v=r8IOLDcN3bY)
 ## י
 [יהוא ירון - דברים כבדים כמו כפרה](https://www.youtube.com/watch?v=Z3QbGpIJt8Q)  
+[יובל מנדלסון והמסע לפולין - גמור ומנוי](https://www.youtube.com/watch?v=c8y0b00OMYU)  
+[יובל מנדלסון והמסע לפולין - המורה בכיתה](https://www.youtube.com/watch?v=Dp2y2Z_OiwM)  
 [יזהר אשדות - במרחק נגיעה מכאן](https://www.youtube.com/watch?v=ygp1zQ6bMbM)  
 [יזהר אשדות - מה תאמרי](https://www.youtube.com/watch?v=hzn-1O5NoUI)  
 [יזהר אשדות - צילו של יום קיץ](https://www.youtube.com/watch?v=AEEdPEXjS2U)  
+[ישי ברגר - המסכה](https://www.youtube.com/watch?v=aBrRcKZF5pY)  
 [ישי קיצ’לס - אתה והשטויות שלך](https://www.youtube.com/watch?v=mWuFOvlK67A)
 ## כ
 [כוכב אניס - פני בוזוקי](https://www.youtube.com/watch?v=TWzY82d7sbQ)
