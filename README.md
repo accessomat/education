@@ -763,6 +763,7 @@ Linkin Park - One Step Closer
 [Lygo - Status Quo](https://www.youtube.com/watch?v=nvgeHuL2bew)  
 [Lygo - Störche](https://www.youtube.com/watch?v=VYjsyr3f9O4)  
 [Lynard Skynard - Freebird](https://www.youtube.com/watch?v=np0solnL1XY)
+
 ## M
 M.O.P - Ante Up  
 Machine Head - Davidian  
@@ -771,10 +772,13 @@ Machine Head - From This Day
 Mad Capsule Markets, The - Tribe  
 [Maggie Reilly - Everytime We Touch](https://www.youtube.com/watch?v=hTyCLMA90xM)  
 Manic Street Preachers - If You Tolerate This Your Children Will Be Next  
-Manic Street Preachers - (It’s Not War) Just The End Of Love  
-Manowar - Blood Of The Kings  
+[Manic Street Preachers - (It’s Not War) Just The End Of Love](https://www.youtube.com/watch?v=Jz2gvAApY2A)  
+[Mannequin Pussy - Kiss](https://www.youtube.com/watch?v=vMIi99Iy_Xo)  
+[Mannequin Pussy - Perfect](https://www.youtube.com/watch?v=_qnvvya2Qhk)  
+[Mannequin Pussy - Pigs Is Pigs](https://www.youtube.com/watch?v=DE2rLAbqzyc)  
+[Manowar - Blood Of The Kings](https://www.youtube.com/watch?v=MUKHQBtxwDo)  
 Manowar - Hail And Kill  
-Manowar - Reurn Of The Warlords  
+Manowar - Return Of The Warlords  
 Manowar - Warriors Of The World United  
 Marduk - Hearse  
 Marduk - Holy Blood, Holly Grail  
