@@ -665,9 +665,10 @@ Johnny Cash - Personal Jesus
 [Johnny Cash - The Mercy Seat](https://www.youtube.com/watch?v=n8CzFVm1Yio)  
 [Johnny Mauser & Captain Gips - On A Journey feat. Marie Curry](https://www.youtube.com/watch?v=vC2eD2j-XQE)  
 [Johnny Winter - Highway 61 Revisited](https://www.youtube.com/watch?v=yclRjptWlW8)  
-Johnossi - Execution song  
+[Johnossi - Execution song](https://www.youtube.com/watch?v=drlFuFPG3gk)  
 [Jonny Lang - Beautiful One](https://www.youtube.com/watch?v=xi67r6shjFI)  
 [Jonny Lang - Walking Away](https://www.youtube.com/watch?v=Olk7mNK-VyE)
+
 ## K
 [Kalmah - Heroes To Us](https://www.youtube.com/watch?v=rRsdU-kh_pw)  
 [Käptn Peng & Die Tentakel von Delphi - Der Anfang ist nah](https://www.youtube.com/watch?v=vqRWMDv0r78)  
@@ -679,6 +680,7 @@ Johnossi - Execution song
 [Kenny Wayne Sheperd - Everything Is Broken](https://www.youtube.com/watch?v=ZXgtKUpu4Sw)   
 [Kettcar - Sommer '89 (Er schnitt Löcher in den Zaun)](https://www.youtube.com/watch?v=UIE8uHNUeRA)   
 [Kids Insane - Don’t Need This](https://www.youtube.com/watch?v=bnkIlq3LOXo)  
+[Kids Insane - Frustrated](https://www.youtube.com/watch?v=Y3p49Y8-VHo)  
 [Kill The Drive - Monsters In My Bed](https://www.youtube.com/watch?v=rE_JViineB0)  
 [Killswitch Engage - Rose Of Sharyn](https://www.youtube.com/watch?v=PgMsACFMIq8)  
 [Kim Wilde - Kids In America](https://www.youtube.com/watch?v=UqMcevcUmqg)  
@@ -692,12 +694,14 @@ Johnossi - Execution song
 [K.I.Z. ft. Bela B. - Hölle](https://www.youtube.com/watch?v=xaaMOANVNeg)  
 [K.I.Z. - Geld essen](https://www.youtube.com/watch?v=veBaB_JEBrA)  
 [K.I.Z. - Hurra die Welt geht unter ft. Henning May](https://www.youtube.com/watch?v=XTPGpBBwt1w)  
+[K.I.Z. - Ich könnte deine Mutter oder deine Schwester sein](https://www.youtube.com/watch?v=c2cxzy-Dar4)
 [Khaled, DJ - Nas Album Done ft Nas](https://www.youtube.com/watch?v=kUygnhd7OSQ)  
 [Klint - Diamonds](https://www.youtube.com/watch?v=NxB4mcaLlfo)  
 [KMPFSPRT - Musikdienstverweigerer (feat. Felix / Adam Angst)](https://www.youtube.com/watch?v=V2lWLYTn3ro)  
 [Kool Savas - Neongelb](https://www.youtube.com/watch?v=OZNIDlvFWbs)  
 [Korn - Freak On A Leash](https://www.youtube.com/watch?v=jRGrNDV2mKc)  
 [Korn - Here To Stay](https://www.youtube.com/watch?v=pr3x7tS__dE)  
+[Kraftklub - Randale](https://www.youtube.com/watch?v=sO_8nRsPQpk)  
 [Kraftklub - Songs für Liam](https://www.youtube.com/watch?v=Wox8mqCcPXI)  
 [Kraftklub - Songs für Liam feat. Casper](https://www.youtube.com/watch?v=bLSTyRaJgrY)  
 [Kraftklub - Unsere Fans](https://www.youtube.com/watch?v=xsqSh1b9bQw)  
@@ -741,7 +745,7 @@ Johnossi - Execution song
 [Limp Bizkit - Hotdog](https://www.youtube.com/watch?v=ZlGyu9EJbmE)  
 [Limp Bizkit - I’m Broke](https://www.youtube.com/watch?v=XOWnUYpBQD8)  
 [Limp Bizkit - Just Like This](https://www.youtube.com/watch?v=3toDGoetgoI)  
-Limp Bizkit - Rollin’  
+[Limp Bizkit - Rollin’](https://www.youtube.com/watch?v=RYnFIRc0k6E)  
 [Limp Bizkit - Take A Look Around](https://www.youtube.com/watch?v=bPD6YiBFG1Q)  
 [Lindemann - Fish On](https://www.youtube.com/watch?v=eciZWNdkGqs)  
 [Lindemann - Yukon](https://www.youtube.com/watch?v=B1hcNMOyBaU)  
