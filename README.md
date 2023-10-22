@@ -385,7 +385,7 @@ Devildriver - Clouds Over California
 Dieselboy - Fear-Machine  
 Dieselboy - The Calling  
 Dieselboy - Paris  
-Dillinger Escape Plan, The - Come To Daddy
+Dillinger Escape Plan, The - Come To Daddy  
 [Dillinger Escape Plan, The - Holliwood Square](https://www.youtube.com/watch?v=rjU3tBiC2gw)  
 [Dillinger Escape Plan, The - Milk Lizzard](https://www.youtube.com/watch?v=xMEYLlDThZU)  
 [Dillinger Escape Plan, The - Rebel Yell](https://www.youtube.com/watch?v=HudD7CIxFm0)  
@@ -1123,7 +1123,7 @@ Rise Against - Re-Education (Through Labor)
 [Rise Against - Satellite](https://www.youtube.com/watch?v=6nQCxwneUwA)  
 [Rise Against - Savior](https://www.youtube.com/watch?v=e8X3ACToii0)  
 Rise Against - Survive  
-Rise Against - The Good Left Undone  
+[Rise Against - The Good Left Undone](https://www.youtube.com/watch?v=70hIRnj9kf8)  
 [Rival Schools - Used For Glue](https://www.youtube.com/watch?v=DcRt7kkzcxM)  
 [Rob Zombie - Dead Girl Superstar](https://www.youtube.com/watch?v=f2nLmtJdZs8)  
 [Rob Zombie - Dragula](https://www.youtube.com/watch?v=EqQuihD0hoI)  
@@ -1197,6 +1197,7 @@ ShworchtseChaye - Mass Dysfunction
 [Six Feet Under - Sick And Twisted](https://www.youtube.com/watch?v=PNpShIrNwpQ)  
 [Six Feet Under - The Day The Dead Walked](https://www.youtube.com/watch?v=v52qaecMQOM)  
 [Skazi And Big Fishi - Hit And Run](https://www.youtube.com/watch?v=ei1VUCEfSCo)  
+[Skints, The - Learning To Swim](https://www.youtube.com/watch?v=qYkhl1Bogwk)  
 [Skizm - Experts](https://www.youtube.com/watch?v=ouyC28ffPjQ)  
 [Skrillex - First Of The Year (Equinox)](https://www.youtube.com/watch?v=2cXDgFwE13g)  
 [Skrillex - Make It Bun Dem](https://www.youtube.com/watch?v=BGpzGu9Yp6Y)  
@@ -1211,7 +1212,7 @@ ShworchtseChaye - Mass Dysfunction
 [Slipknot - All Hope Is Gone](https://www.youtube.com/watch?v=Wn2w3j_xmbw)  
 [Slipknot - Before I Forget](https://www.youtube.com/watch?v=qw2LU1yS7aw)  
 [Slipknot - Duality](https://www.youtube.com/watch?v=6fVE8kSM43I)  
-Slipknot - Everything Ends  
+[Slipknot - Everything Ends](https://www.youtube.com/watch?v=dkObgKrscpk)  
 Slipknot - I Am Hated  
 Slipknot - Left Behind  
 Slipknot - My Plague  
