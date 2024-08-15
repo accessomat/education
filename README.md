@@ -7,7 +7,7 @@ A tagged name near a songs means that this song is somehow related to the tagges
 
 This list is missing some songs, suggest those songs I forgot
 
-last update : 2023-09-03 (SPD, new format)
+last update : 2024-08-14 (SPD, thoughts about chrome->firefox, letters: )
 
 
 [\#](#\#)
@@ -474,10 +474,11 @@ Exploited, The - Sex And Violence
 ## F
 Faderhead - TZDV  
 Faith No More - Epic  
-Faith No More - From Out Of Nowhere  
+[Faith No More - From Out Of Nowhere](https://www.youtube.com/watch?v=j4tsGWdarHc)  
 [Faith No More - Last Cup Of Sorrow](https://www.youtube.com/watch?v=FtIwfugF1zw)  
+[Faith No More - We Care a Lot](https://www.youtube.com/watch?v=LQhX8PbNUWI)  
 [Faithless - Mass Destruction](https://www.youtube.com/watch?v=uzgBD2wysuI)  
-Fall Out Boy - Thnks Fr Th Mmrs  
+[Fall Out Boy - Thnks Fr Th Mmrs](https://www.youtube.com/watch?v=onzL0EM1pKY)  
 Farin Urlaub - Sonne  
 [Farin Urlaub Racing Team - AWG](https://www.youtube.com/watch?v=H9-_318WOLo)  
 [Farin Urlaub Racing Team - Herz? Verloren](https://www.youtube.com/watch?v=Salvggj9bMw)  
@@ -514,11 +515,12 @@ Foo Fighters - The Pretender
 [Foreign Baggers & Noisia - Contact](https://www.youtube.com/watch?v=Pb55ep-DrSo)  
 [Four Year Strong - Bada Bing Wit A Pipe](https://www.youtube.com/watch?v=-bluR5vXh_8)  
 [Four Year String - Spiderweb](https://www.youtube.com/watch?v=5pyYnaWELSU)  
-Foxy Shazam - A Dangerous Man  
-Foxy Shazam - Oh Lord  
+[Foxy Shazam - A Dangerous Man](https://www.youtube.com/watch?v=jqK1dE0FWo0)  
+[Foxy Shazam - Oh Lord](https://www.youtube.com/watch?v=Om_VWBua0_M)  
 [Foxy Shazam - Unstoppable](https://www.youtube.com/watch?v=OFt3OqmGSbI)  
 [Frau Potz - Ach, Heiner](https://www.youtube.com/watch?v=I5kL-KFG8tg)  
 [Frau Potz - Champagnerspion](https://www.youtube.com/watch?v=OX8JqPvCguM)  
+[Frédéric Chopin - Raindrop](https://www.youtube.com/watch?v=6OFHXmiZP38)
 [Fresh, DJ - Louder](https://www.youtube.com/watch?v=eE-dwpWpscU)  
 [Fresh, DJ - Gold Dust](https://www.youtube.com/watch?v=RNuUgbUzM8U)  
 [Future User - Mountain Lion](https://www.youtube.com/watch?v=NzW8SnUKms0)
@@ -531,6 +533,7 @@ Foxy Shazam - Oh Lord
 [Gehennah - Rock-n-Roll Patrol](https://www.youtube.com/watch?v=niCeZjB4nTE)  
 [Ghinzu - The Dragster Wave](https://www.youtube.com/watch?v=wyyq6DDVtrM)  
 [Ghost - From The Pinnacle To The Pit](https://www.youtube.com/watch?v=6A-IoOEPbUs)  
+[Ghost - Kaiserion](https://www.youtube.com/watch?v=kt6Ss5r7-qo)
 [Ghost Inside, The - Engine 45](https://www.youtube.com/watch?v=wzS5-AjJ71E)  
 [Ghost Inside, The - Out Of Control](https://www.youtube.com/watch?v=ye6B5HAjzY8)  
 [Ghost Inside, The - Unspoken](https://www.youtube.com/watch?v=FAn4gyUAI6Q)  
@@ -548,8 +551,8 @@ Foxy Shazam - Oh Lord
 [Guilty Crown OST - BIOS](https://www.youtube.com/watch?v=FUVDtwpWgp0)  
 [Guilty Crown OST - The Everlasting Guilty Crown](https://www.youtube.com/watch?v=vNuN8xH3X74)  
 [Gustavo Montesano - Tango Serenato de Schubert](https://www.youtube.com/watch?v=tb1GYVfR_W8)  
-Guthrie Govan - Waves  
-Guttermouth - Scholarship In Punk  
+[Guthrie Govan - Waves](https://www.youtube.com/watch?v=U75g2mDTXtA)  
+[Guttermouth - Scholarship In Punk](https://www.youtube.com/watch?v=gfz5Wik4egE)  
 [Guttermouth - She’s Got The Look](https://www.youtube.com/watch?v=Ss4ckJex2ws)  
 [Green Day - Warning](https://www.youtube.com/watch?v=b2FQCmCo1mg)    
 [Gregorian - Boulevard of Broken Dreams](https://www.youtube.com/watch?v=CkrzKbC9S9s)  
@@ -661,7 +664,7 @@ Johnny Cash - Cadilac
 Johnny Cash - Ghost Riders In The Sky  
 Johnny Cash - God’s Gonna Cut You Down  
 Johnny Cash - Man Comes Around  
-Johnny Cash - Personal Jesus  
+[Johnny Cash - Personal Jesus](https://www.youtube.com/watch?v=K3QDDlWmR9Q)  
 [Johnny Cash - The Mercy Seat](https://www.youtube.com/watch?v=n8CzFVm1Yio)  
 [Johnny Mauser & Captain Gips - On A Journey feat. Marie Curry](https://www.youtube.com/watch?v=vC2eD2j-XQE)  
 [Johnny Winter - Highway 61 Revisited](https://www.youtube.com/watch?v=yclRjptWlW8)  
@@ -698,6 +701,8 @@ Johnny Cash - Personal Jesus
 [Khaled, DJ - Nas Album Done ft Nas](https://www.youtube.com/watch?v=kUygnhd7OSQ)  
 [Klint - Diamonds](https://www.youtube.com/watch?v=NxB4mcaLlfo)  
 [KMPFSPRT - Musikdienstverweigerer (feat. Felix / Adam Angst)](https://www.youtube.com/watch?v=V2lWLYTn3ro)  
+[Knower - Do Hot Girls Like Chords?](https://www.youtube.com/watch?v=Ois3gfcwKSA)  
+[Knower - The Abyss](https://www.youtube.com/watch?v=O2F0oTqfL3E)
 [Kool Savas - Neongelb](https://www.youtube.com/watch?v=OZNIDlvFWbs)  
 [Korn - Freak On A Leash](https://www.youtube.com/watch?v=jRGrNDV2mKc)  
 [Korn - Here To Stay](https://www.youtube.com/watch?v=pr3x7tS__dE)  
@@ -714,6 +719,7 @@ Johnny Cash - Personal Jesus
 [Kvelertak - Blodtørst](https://www.youtube.com/watch?v=r7sIqyoRFiU)  
 [Kvelertak - Bruane Brenn](https://www.youtube.com/watch?v=jD38m5-DD_I)  
 [Kyuss - Green Machine](https://www.youtube.com/watch?v=R-MSfd2S7lo)
+
 ## L
 [L7 - Everglade](https://www.youtube.com/watch?v=Ie1dmQnMKC8)  
 [L7 - Pretend We’re Dead](https://www.youtube.com/watch?v=NAdlZ2F-fs8)  
@@ -750,7 +756,7 @@ Johnny Cash - Personal Jesus
 [Lindemann - Fish On](https://www.youtube.com/watch?v=eciZWNdkGqs)  
 [Lindemann - Yukon](https://www.youtube.com/watch?v=B1hcNMOyBaU)  
 [Linkin Park - Bleed It Out](https://www.youtube.com/watch?v=OnuuYcqhzCE)  
-Linkin Park - Given Up  
+[Linkin Park - Given Up](https://www.youtube.com/watch?v=0xyxtzD54rM)  
 Linkin Park - One Step Closer  
 [Linkin Park - Points Of Authority](https://www.youtube.com/watch?v=05Gth2VWnpc)  
 [Linkin Park - The Catalyst](https://www.youtube.com/watch?v=51iquRYKPbs)  
@@ -762,6 +768,7 @@ Linkin Park - One Step Closer
 [LL Cool J - Rock The Bell](https://www.youtube.com/watch?v=ZyswjkZJugI)  
 [Lonely Island, The - Threw It On The Ground](https://www.youtube.com/watch?v=gAYL5H46QnQ)  
 [Loud - Pigs Don’t Give A Damn](https://www.youtube.com/watch?v=SVNrHmVdsak)  
+[Louis Cole - F it up](https://www.youtube.com/watch?v=IxEIQQkhyeI)
 [Lowkey - Obama Nation Part 2](https://www.youtube.com/watch?v=bB-vYuYhdSE)  
 [Ludacris - Move Bitch](https://www.youtube.com/watch?v=UC86yQAzaxg)  
 [Lygo - Status Quo](https://www.youtube.com/watch?v=nvgeHuL2bew)  
@@ -769,7 +776,7 @@ Linkin Park - One Step Closer
 [Lynard Skynard - Freebird](https://www.youtube.com/watch?v=np0solnL1XY)
 
 ## M
-M.O.P - Ante Up  
+[M.O.P - Ante Up](https://www.youtube.com/watch?v=3MUGAxpI0Bc) ([Remix ft. Busta Rhymes, Tephlon and Remy Martin](https://www.youtube.com/watch?v=HIqfQ-khI5s))  
 Machine Head - Davidian  
 Machine Head - Days Turn Blue To Gray  
 Machine Head - From This Day  
@@ -1022,22 +1029,23 @@ Prodigy, The - Thunder
 Propagandhi - Back To The Motor League  
 Propagandhi - Mate Ka Moris Ukun Rasik An  
 Propagandhi - This Might Be Satire  
-Propagandhi - Today’s Empire Tomorow’s Ashes  
+[Propagandhi - Today’s Empire Tomorow’s Ashes](https://www.youtube.com/watch?v=DAjB60VWIVw)  
+[Propagandhi - Victory Lap](https://www.youtube.com/watch?v=wTANmHJhbF8)
 [Protest The Hero - Sequoia Throne](https://www.youtube.com/watch?v=AaIUrAsAjcQ)  
 [Protomartyr - Wheel of Fortune (feat. Kelley Deal)](https://www.youtube.com/watch?v=Up8frGWrUVc)  
 [Psycroptic - The Color Of Sleep](https://www.youtube.com/watch?v=IhBuCy1PAGk)  
-Public Domain - Blade Project (Bass To The Place London)  
+[Public Domain - Blade Project (Bass To The Place London)](https://www.youtube.com/watch?v=EOqIszUr4fU)  
 Pulp Fiction - Zed’s Dead, Baby  
 Punkache - Blue Marks  
 Punkache - Girls Boys  
 Punkache - Teenage Movies  
-Punkache - The Girl That Rocked My World  
+[PUP - Dark Days](https://www.youtube.com/watch?v=JWYrgj_vZqI)
 [PUP - DVP](https://www.youtube.com/watch?v=iVuB1ZASrGw)  
 [PUP - Reservoir](https://www.youtube.com/watch?v=D6UaplvdnWM)
 ## Q
 [Qemists, The - S.W.A.G](https://www.youtube.com/watch?v=1krmAcCdZ_Y)  
 [Qemists, The - Take It Back (Feat. Enter Shikari)](https://www.youtube.com/watch?v=5CRO3xtYuY4)  
-Qemists, The - The Perfect High  
+[Qemists, The - The Perfect High](https://www.youtube.com/watch?v=yfwNfum4VHE)  
 Queen - Brighton Rock  
 ## R
 Rabbit Junk - In Your Head No One Can Hear You Scream  
@@ -1332,7 +1340,7 @@ Terry Poison - Smack Snack
 [Thin Lizzy - The Boys Are Back In Town](https://www.youtube.com/watch?v=hQo1HIcSVtg)  
 [Three Days Grace - Animal I Have Become](https://www.youtube.com/watch?v=xqds0B_meys)  
 [Throwdown - Americana](https://www.youtube.com/watch?v=NxMYP5sB2ao)  
-Throwdown - Baby Got Back  
+[Throwdown - Baby Got Back](https://www.youtube.com/watch?v=PQ2fwws_Xww)  
 [Throwdown - Burn](https://www.youtube.com/watch?v=fninRnmVRHw)  
 [Throwdown - Holy Roller](https://www.youtube.com/watch?v=_ByTeH47DIA)  
 [Tiamat - Cold Seed](https://www.youtube.com/watch?v=R6_AjxwBUw0)  
@@ -1355,6 +1363,8 @@ Throwdown - Baby Got Back
 [Trivium - Like Light To Flies](https://www.youtube.com/watch?v=5CTBV3TGgW8)  
 [Trust - Antisocial](https://www.youtube.com/watch?v=45n3mwSilvQ)  
 [Turbostaat - Abalonia](https://www.youtube.com/watch?v=FUWOnJdqI_k)  
+[Turnstile - Blackout](https://www.youtube.com/watch?v=YtGRLKVzzdg)  
+[Turnstile - Holiday](https://www.youtube.com/watch?v=sU1JXOB52ZI)  
 [Tuss, The - Rushup I Bank 12](https://www.youtube.com/watch?v=wBwUJMZNOgQ)  
 [Twin Atlantic - Time For You To Stand Up](https://www.youtube.com/watch?v=nhYROHNSIGM)  
 [Tyler The Creator - French](https://www.youtube.com/watch?v=8_DrIm-fso4)  
@@ -1362,7 +1372,7 @@ Throwdown - Baby Got Back
 ## U
 [U2 - Bullet The Blue Sky](https://www.youtube.com/watch?v=fdmNC8ylrXI)  
 [U2 - Elevation](https://www.youtube.com/watch?v=19KstSgU-c0)  
-Ultramagnetic Mc’s - Give The Drummer Some  
+[Ultramagnetic Mc’s - Give The Drummer Some](https://www.youtube.com/watch?v=5UcP7qoUqJA)  
 Unseen - Scream Out  
 [Useless ID - At Least I Tried](https://www.youtube.com/watch?v=O1VNBUiA6Bg)  
 [Useless ID - Before I Go](https://www.youtube.com/watch?v=G0sMoFA5lKg)  
