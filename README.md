@@ -422,11 +422,14 @@ Dragonforce - Through The Fire And The Flames
 Dritte Wahl - Zeit Bleib Stehen  
 Dubba Jonny - A Brief Tutorial On Vip Production  
 Durrty Goodz - Cokey The Snowman  
-DZK - Torcher  
+[DZK - Torcher](https://www.youtube.com/watch?v=f5seea-uXPg)  
+
 ## E
 [Eatliz - Hey](https://www.youtube.com/watch?v=lJVY6-Jx5Pc)  
 [Eatliz - Mystical Lady](https://www.youtube.com/watch?v=gwgTADqFMV0)  
 [Ektomorf - I Know Them](https://www.youtube.com/watch?v=yAMXodcypAM)  
+[Electric Callboy - We Got The Moves](https://www.youtube.com/watch?v=D1NdGBldg3w)  
+[Electric Callboy - Tekkno Train](https://www.youtube.com/watch?v=CFlhlZbeKgE)  
 [Elthon John - Pinball Wizard](https://www.youtube.com/watch?v=ePiGVI2Hs-g)  
 [Eluvium - Prelude for Time Feelers](https://www.youtube.com/watch?v=963Tt7CEt2s)  
 [Elvis Presley - An American Trilogy - I wish I was in Dixieland](https://www.youtube.com/watch?v=vWVgLLnGaWs)  
@@ -444,7 +447,7 @@ DZK - Torcher
 [Enter Shikari - Destabilise](https://www.youtube.com/watch?v=PSjaM9E2gr4)  
 [Enter Shikari - The Dreamer's Hotel](https://www.youtube.com/watch?v=hJOiQo2ulyw)  
 [Enter Shikari - Fanfare For The Conscious Man](https://www.youtube.com/watch?v=RUS1XxIE3SE)  
-Enter Shikari - Gap In The Fence  
+[Enter Shikari - Gap In The Fence](https://www.youtube.com/watch?v=Vo7f6MFAd5w)  
 Enter Shikari - Hectic  
 [Enter Shikari - Jonny Sniper](https://www.youtube.com/watch?v=K_oFyhXd5P8)  
 Enter Shikari - The Jester
@@ -520,7 +523,7 @@ Foo Fighters - The Pretender
 [Foxy Shazam - Unstoppable](https://www.youtube.com/watch?v=OFt3OqmGSbI)  
 [Frau Potz - Ach, Heiner](https://www.youtube.com/watch?v=I5kL-KFG8tg)  
 [Frau Potz - Champagnerspion](https://www.youtube.com/watch?v=OX8JqPvCguM)  
-[Frédéric Chopin - Raindrop](https://www.youtube.com/watch?v=6OFHXmiZP38)
+[Frédéric Chopin - Raindrop](https://www.youtube.com/watch?v=6OFHXmiZP38)  
 [Fresh, DJ - Louder](https://www.youtube.com/watch?v=eE-dwpWpscU)  
 [Fresh, DJ - Gold Dust](https://www.youtube.com/watch?v=RNuUgbUzM8U)  
 [Future User - Mountain Lion](https://www.youtube.com/watch?v=NzW8SnUKms0)
@@ -533,7 +536,7 @@ Foo Fighters - The Pretender
 [Gehennah - Rock-n-Roll Patrol](https://www.youtube.com/watch?v=niCeZjB4nTE)  
 [Ghinzu - The Dragster Wave](https://www.youtube.com/watch?v=wyyq6DDVtrM)  
 [Ghost - From The Pinnacle To The Pit](https://www.youtube.com/watch?v=6A-IoOEPbUs)  
-[Ghost - Kaiserion](https://www.youtube.com/watch?v=kt6Ss5r7-qo)
+[Ghost - Kaiserion](https://www.youtube.com/watch?v=kt6Ss5r7-qo)  
 [Ghost Inside, The - Engine 45](https://www.youtube.com/watch?v=wzS5-AjJ71E)  
 [Ghost Inside, The - Out Of Control](https://www.youtube.com/watch?v=ye6B5HAjzY8)  
 [Ghost Inside, The - Unspoken](https://www.youtube.com/watch?v=FAn4gyUAI6Q)  
@@ -697,12 +700,12 @@ Johnny Cash - Man Comes Around
 [K.I.Z. ft. Bela B. - Hölle](https://www.youtube.com/watch?v=xaaMOANVNeg)  
 [K.I.Z. - Geld essen](https://www.youtube.com/watch?v=veBaB_JEBrA)  
 [K.I.Z. - Hurra die Welt geht unter ft. Henning May](https://www.youtube.com/watch?v=XTPGpBBwt1w)  
-[K.I.Z. - Ich könnte deine Mutter oder deine Schwester sein](https://www.youtube.com/watch?v=c2cxzy-Dar4)
+[K.I.Z. - Ich könnte deine Mutter oder deine Schwester sein](https://www.youtube.com/watch?v=c2cxzy-Dar4)  
 [Khaled, DJ - Nas Album Done ft Nas](https://www.youtube.com/watch?v=kUygnhd7OSQ)  
 [Klint - Diamonds](https://www.youtube.com/watch?v=NxB4mcaLlfo)  
 [KMPFSPRT - Musikdienstverweigerer (feat. Felix / Adam Angst)](https://www.youtube.com/watch?v=V2lWLYTn3ro)  
 [Knower - Do Hot Girls Like Chords?](https://www.youtube.com/watch?v=Ois3gfcwKSA)  
-[Knower - The Abyss](https://www.youtube.com/watch?v=O2F0oTqfL3E)
+[Knower - The Abyss](https://www.youtube.com/watch?v=O2F0oTqfL3E)  
 [Kool Savas - Neongelb](https://www.youtube.com/watch?v=OZNIDlvFWbs)  
 [Korn - Freak On A Leash](https://www.youtube.com/watch?v=jRGrNDV2mKc)  
 [Korn - Here To Stay](https://www.youtube.com/watch?v=pr3x7tS__dE)  
@@ -768,7 +771,7 @@ Linkin Park - One Step Closer
 [LL Cool J - Rock The Bell](https://www.youtube.com/watch?v=ZyswjkZJugI)  
 [Lonely Island, The - Threw It On The Ground](https://www.youtube.com/watch?v=gAYL5H46QnQ)  
 [Loud - Pigs Don’t Give A Damn](https://www.youtube.com/watch?v=SVNrHmVdsak)  
-[Louis Cole - F it up](https://www.youtube.com/watch?v=IxEIQQkhyeI)
+[Louis Cole - F it up](https://www.youtube.com/watch?v=IxEIQQkhyeI)  
 [Lowkey - Obama Nation Part 2](https://www.youtube.com/watch?v=bB-vYuYhdSE)  
 [Ludacris - Move Bitch](https://www.youtube.com/watch?v=UC86yQAzaxg)  
 [Lygo - Status Quo](https://www.youtube.com/watch?v=nvgeHuL2bew)  
@@ -1030,7 +1033,7 @@ Propagandhi - Back To The Motor League
 Propagandhi - Mate Ka Moris Ukun Rasik An  
 Propagandhi - This Might Be Satire  
 [Propagandhi - Today’s Empire Tomorow’s Ashes](https://www.youtube.com/watch?v=DAjB60VWIVw)  
-[Propagandhi - Victory Lap](https://www.youtube.com/watch?v=wTANmHJhbF8)
+[Propagandhi - Victory Lap](https://www.youtube.com/watch?v=wTANmHJhbF8)  
 [Protest The Hero - Sequoia Throne](https://www.youtube.com/watch?v=AaIUrAsAjcQ)  
 [Protomartyr - Wheel of Fortune (feat. Kelley Deal)](https://www.youtube.com/watch?v=Up8frGWrUVc)  
 [Psycroptic - The Color Of Sleep](https://www.youtube.com/watch?v=IhBuCy1PAGk)  
@@ -1039,7 +1042,7 @@ Pulp Fiction - Zed’s Dead, Baby
 Punkache - Blue Marks  
 Punkache - Girls Boys  
 Punkache - Teenage Movies  
-[PUP - Dark Days](https://www.youtube.com/watch?v=JWYrgj_vZqI)
+[PUP - Dark Days](https://www.youtube.com/watch?v=JWYrgj_vZqI)  
 [PUP - DVP](https://www.youtube.com/watch?v=iVuB1ZASrGw)  
 [PUP - Reservoir](https://www.youtube.com/watch?v=D6UaplvdnWM)
 ## Q
