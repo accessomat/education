@@ -69,8 +69,8 @@ last update : 2024-08-14 (SPD, thoughts about chrome->firefox, letters: )
 3 Feet Smaller - Lie Baby, Lie!  
 [65daysofstatic - Retreat! Retreat!](https://www.youtube.com/watch?v=WneDU-K3Sww)  
 [8º6 Crew - Vieille France](https://www.youtube.com/watch?v=81CkPvG3soU)  
-## A
 
+## A
 [A - Nothing](https://www.youtube.com/watch?v=e0r2Apn7OKA)  
 [A Day To Remember - All I Want](https://www.youtube.com/watch?v=Pn-6eOxnEMI)  
 [A Day To Remember - I’m Made Of Wax, Larry, What Are You Made Of?](https://www.youtube.com/watch?v=08PszRp2cBg)  
@@ -166,8 +166,8 @@ Avantasia - Avantasia
 Azealia Banks - 212  
 Azealia Banks - Liquorice  
 [Azealia Banks - Yung Rapunxel](https://www.youtube.com/watch?v=iFe-sfJeh2E)  
-## B
 
+## B
 [B. Fleischmann - Pass By](https://www.youtube.com/watch?v=SFxC9GNtXak)  
 [Bad Cop / Bad Cop - Womanarchist](https://www.youtube.com/watch?v=LYWpFs8Na9k)  
 [Bad Religion - Drunk Sincerity](https://www.youtube.com/watch?v=VtSaiXSbRmQ)  
@@ -193,7 +193,7 @@ Berzerker, The - Corporal Jigsore Quandary
 Berzerker, The - Farewell  
 Berzerker, The - Free Yourself  
 Berzerker, The - Forever  
-Betzefer - Early Grave Azealia Banks - 212  
+Betzefer - Early Grave  
 Betzefer - Fucking Rock And Roll  
 Biffy Clyro - That Golden Rule  
 Billy Joel - We Didn’t Start The Fire  
@@ -268,6 +268,7 @@ Busta Rhymes - Break Ya Neck
 Busta Rhymes - Don’t Touch Me  
 [Busta Rhymes - Fire It Up](https://www.youtube.com/watch?v=3lXGbR58bcc)  
 [Busta Rhymes - Gimme Some More](https://www.youtube.com/watch?v=eHHT7dTmw8U)
+
 ## C
 [Caliban - The Beloved And The Hatred](https://www.youtube.com/watch?v=40ISKTW77MQ)  
 [Cama - 25 Years](https://www.youtube.com/watch?v=rOQCZ8ASV6A)  
@@ -342,6 +343,7 @@ Cypress Hill - Insane And The Brain
 Cypress Hill - Rise Up Feat. Tom Morello  
 [Cypress Hill - (Rock) Superstar](https://www.youtube.com/watch?v=W4VpE-0zitU)  
 [Cypress Hill - Roll It, Light It](https://www.youtube.com/watch?v=iX9MG86lg44)
+
 ## D
 [D12 - Purple Pills](https://www.youtube.com/watch?v=wFsLGh81GeI)  
 [Daft Punk - Giorgio by Moroder](https://www.youtube.com/watch?v=zhl-Cs1-sG4)  
@@ -474,6 +476,7 @@ Enter Shikari - Zzzonked
 [Evergrey - Masterplan](https://www.youtube.com/watch?v=hUOs6HjY4d4)  
 Exploited, The - Beat The Basterds  
 Exploited, The - Sex And Violence  
+
 ## F
 Faderhead - TZDV  
 Faith No More - Epic  
@@ -527,6 +530,7 @@ Foo Fighters - The Pretender
 [Fresh, DJ - Louder](https://www.youtube.com/watch?v=eE-dwpWpscU)  
 [Fresh, DJ - Gold Dust](https://www.youtube.com/watch?v=RNuUgbUzM8U)  
 [Future User - Mountain Lion](https://www.youtube.com/watch?v=NzW8SnUKms0)
+
 ## G
 [Gallows - London Is The Reason](https://www.youtube.com/watch?v=7RcDzVqI250)  
 [Gallows - Misery](https://www.youtube.com/watch?v=PNodyijdG_E)  
@@ -560,6 +564,7 @@ Foo Fighters - The Pretender
 [Green Day - Warning](https://www.youtube.com/watch?v=b2FQCmCo1mg)    
 [Gregorian - Boulevard of Broken Dreams](https://www.youtube.com/watch?v=CkrzKbC9S9s)  
 [Grossstadtgeflüster - Weil das morgen noch so ist](https://www.youtube.com/watch?v=DLoT14TI-LM)
+
 ## H
 [Hacktivist - Cold Shoulders](https://www.youtube.com/watch?v=hbaVhDQfa3I)  
 [Hacktivist - Unlike Us](https://www.youtube.com/watch?v=qJrEBqTCK50)  
@@ -603,6 +608,7 @@ Herbaliser, The - 8 Point Agenda
 [House Of Pain - Jump Around](https://www.youtube.com/watch?v=KZaz7OqyTHQ)  
 [House Of Pain - Legend](https://www.youtube.com/watch?v=QQEIMoFH_IQ)  
 [Hypocrisy - Roswell 47](https://www.youtube.com/watch?v=1rKezCsU9KA)
+
 ## I
 [I Am Legion - Choosing For You](https://www.youtube.com/watch?v=199TISojIgw)  
 [I-Monster - Daydream in Blue](https://www.youtube.com/watch?v=BBhDaVg1E6Y)  
@@ -641,6 +647,7 @@ Iron Maiden - Transylvania
 Iron Maiden - Virus  
 Iron Maiden - Wasted Years  
 Iron Maiden - Wrath Child  
+
 ## J
 Janis Joplin - Me And Bobby McGee  
 Janis Joplin - Take Another Little Piece Of My Heart  
@@ -880,6 +887,7 @@ Mnemic - Jack Vegas
 [Mumford & Sons - Little Lion Man](https://www.youtube.com/watch?v=X7bHe--mp1g)  
 [Murder By Death - I’m Comin’ Home](https://www.youtube.com/watch?v=D3llU-smhnQ)  
 [Müslüm - Süpervitamin](https://www.youtube.com/watch?v=ZXQlMgiPd8k)
+
 ## N
 [Nanowar - Christmas With Manowar](https://www.youtube.com/watch?v=wnk8wHSev7U)  
 Nanowar - Tricycles Of Stell  
@@ -926,6 +934,7 @@ Nick Cave And The Bad Seeds - O’mally’s Bar
 [Nylithia - Hyperthrash](https://www.youtube.com/watch?v=iLj5RBSIs98)  
 [Nylithia - Immersed In The Maniacal](https://www.youtube.com/watch?v=z1IZ2TRtO5I)  
 [Nylithia - Super Mario Bros. Castle Theme](https://www.youtube.com/watch?v=NBgMk4X9MzA)  
+
 ## O
 [Off With Their Heads - Nightlife](https://www.youtube.com/watch?v=u3xsfcG0nV8)  
 [Offspring, The - All I Want](https://www.youtube.com/watch?v=us8OhI-OTHg)  
@@ -958,6 +967,7 @@ Ozzy Osbourne - Alive (&Marina Kryukov)
 Ozzy Osbourne - Gets Me Through  
 [Ozzy Osbourne - I Just Want You](https://www.youtube.com/watch?v=G4nI2V07X6k)  
 Ozzy Osbourne - Shot In The Dark
+
 ## P
 [Paffendorf - Lalala Girl](https://www.youtube.com/watch?v=jdH0BM_ph0w)  
 [Pain - Just Hate Me](https://www.youtube.com/watch?v=5KEGp0aQSEs)  
@@ -1045,11 +1055,13 @@ Punkache - Teenage Movies
 [PUP - Dark Days](https://www.youtube.com/watch?v=JWYrgj_vZqI)  
 [PUP - DVP](https://www.youtube.com/watch?v=iVuB1ZASrGw)  
 [PUP - Reservoir](https://www.youtube.com/watch?v=D6UaplvdnWM)
+
 ## Q
 [Qemists, The - S.W.A.G](https://www.youtube.com/watch?v=1krmAcCdZ_Y)  
 [Qemists, The - Take It Back (Feat. Enter Shikari)](https://www.youtube.com/watch?v=5CRO3xtYuY4)  
 [Qemists, The - The Perfect High](https://www.youtube.com/watch?v=yfwNfum4VHE)  
 Queen - Brighton Rock  
+
 ## R
 Rabbit Junk - In Your Head No One Can Hear You Scream  
 Rafik, DJ - Gold Steel  
@@ -1157,6 +1169,7 @@ Rise Against - Survive
 [Rurouni Kenshin - Freckles](https://www.youtube.com/watch?v=n2A_Xwg-KWg)  
 [RZA - Afro Samurai](https://www.youtube.com/watch?v=f7HgqicLjwk)  
 [RZA - Fury In My Eyes](https://www.youtube.com/watch?v=tLxjlBnla7Y)
+
 ## S
 [Sage Francis - Escape Artist](https://www.youtube.com/watch?v=U-9uhUBKah8)  
 [Sage Francis - Little Houdini](https://www.youtube.com/watch?v=SPifsXaLTYk)  
@@ -1318,6 +1331,7 @@ System Of A Down - Sugar
 System Of A Down - Toxicity + Crawling (JonaRous Remix)  
 System Of A Down - Violent Pornography  
 [System Of A Down - Will They Die For You](https://www.youtube.com/watch?v=oKO23HGziTQ)
+
 ## T
 [Tanghetto - Barrio Sur](https://www.youtube.com/watch?v=NQ-e6auWXU8)  
 [Tankard - (Empty) Tankard](https://www.youtube.com/watch?v=fmUYVZpBIXE)  
@@ -1372,6 +1386,7 @@ Terry Poison - Smack Snack
 [Twin Atlantic - Time For You To Stand Up](https://www.youtube.com/watch?v=nhYROHNSIGM)  
 [Tyler The Creator - French](https://www.youtube.com/watch?v=8_DrIm-fso4)  
 [Tyler The Creator - Yonkers](https://www.youtube.com/watch?v=XSbZidsgMfw)  
+
 ## U
 [U2 - Bullet The Blue Sky](https://www.youtube.com/watch?v=fdmNC8ylrXI)  
 [U2 - Elevation](https://www.youtube.com/watch?v=19KstSgU-c0)  
@@ -1391,6 +1406,7 @@ Useless ID - Night Stalker
 Useless ID - Redemption  
 [Useless ID - Suffer For The Fame](https://www.youtube.com/watch?v=-C_6wXienZs)  
 Useless ID - Undecided
+
 ## V
 Vader - Black To The Blind  
 Vader - Kingdom  
@@ -1404,6 +1420,7 @@ Venetian Snares - Szamár Madár
 Vital Remains - Savior To None… Failure To All  
 Vital Remains - Shrapnel Embedded Flesh  
 [Volbeat - A Warrior’s Call](https://www.youtube.com/watch?v=rSmtHBMjXLU)  
+
 ## W
 We Are The Ocean - Nothing Good Has Happened Yet  
 We Are The Ocean - The Waiting Room  
@@ -1416,11 +1433,14 @@ Weezer - Hash Pipe
 [Wiley Ft. Chew Fu - Take That](https://www.youtube.com/watch?v=KPYrMN9RI80)  
 [Wolfmother - New Moon Rising](https://www.youtube.com/watch?v=-O63P9Ecujc)  
 [Wolfmother - Woman](https://www.youtube.com/watch?v=IRsc57nK8mg)  
+
 ## X
 [X-Ecutioners - Rock The Bells](https://www.youtube.com/watch?v=QdlpBHnZO3c)  
 [X-Ecutioners - It’s Goin’ Down](https://www.youtube.com/watch?v=P0nyy6AcfY4)  
+
 ## Y
 [Your Demise - Life Of Luxury](https://www.youtube.com/watch?v=h0xkN7GD5_o)  
+
 ## Z
 [Zac Brown Band - Heavy Is The Head ft. Chris Cornell](https://www.youtube.com/watch?v=WWBm4Tx2bRo)  
 [Zakk Wylde - Cry Me A River](https://www.youtube.com/watch?v=jhlqwlNMP6Q)  
