@@ -7,7 +7,7 @@ A tagged name near a songs means that this song is somehow related to the tagges
 
 This list is missing some songs, suggest those songs I forgot
 
-last update : 2024-08-14 (SPD, thoughts about chrome->firefox, letters: )
+last update : 2025-03-08 (SPD, chrome cleanup, towards moving chrome->firefox)
 
 
 [\#](#\#)
@@ -87,6 +87,7 @@ last update : 2024-08-14 (SPD, thoughts about chrome->firefox, letters: )
 [Against Me! - I Was A Teenage Anarchist](https://www.youtube.com/watch?v=c7RUeMCZL3Q)  
 [Against Me! - Spanish Moss](https://www.youtube.com/watch?v=c6IeIEfH_7I)  
 [Against Me! - White People For Peace](https://www.youtube.com/watch?v=RY9TbZMlTaI)  
+[Agent Fresco - Howls](https://www.youtube.com/watch?v=Cz_z-Ljzt-0)  
 [Agnostic Front - For My Family](https://www.youtube.com/watch?v=ebBjGp7QOGc)  
 [Alexisonfire - Accept Crime](https://www.youtube.com/watch?v=qmKbjpJ3-w4)  
 [Alexisonfire - Boiled Frogs](https://www.youtube.com/watch?v=kgkMlEn8L2E)  
@@ -97,7 +98,8 @@ Alice In Chains - Rain When I Die
 Alice In Chains - Rooster  
 Alice In Chains - Them Bones  
 Alice In Chains - Would?  
-Alkaline Trio - Dorothy  
+[Alkaline Trio - Blood, Hair, And Eyeballs](https://www.youtube.com/watch?v=CprfYX6hij4)  
+[Alkaline Trio - Dorothy](https://www.youtube.com/watch?v=2nRFjZMutTA)  
 Alkaline Trio - Lead Poisoning  
 Alkaline Trio - Private Eye  
 Alkaline Trio - This Addiction  
@@ -106,6 +108,8 @@ Alkaline Trio - This Addiction
 [All American Rejects, The - Real World](https://www.youtube.com/watch?v=CBXeE-FvR7g)  
 [All American Rejects, The - Gives You Hell](https://www.youtube.com/watch?v=uxUATkpMQ8A)  
 [Alles.Scheisze - Deutschland verrecke (Barista, Barista, Antifascista!)](https://www.youtube.com/watch?v=NbGBqvzBXaE)  
+[Alligatoah - Nachbeben](https://www.youtube.com/watch?v=lI92uiDnUjM)  
+[Alligatoah - SO RAUS feat. Fred Durst](https://www.youtube.com/watch?v=MuvmCeFZRsY)  
 [Alligatoah - Willst du?](https://www.youtube.com/watch?v=opoDBF_b-fg)  
 [America Hi-Fi - Flavour Of The Week](https://www.youtube.com/watch?v=uAmINmjpQxw)  
 [Amit Erez - Night Side](https://www.youtube.com/watch?v=8yWGiEUUqoI)  
@@ -296,6 +300,7 @@ Busta Rhymes - Don’t Touch Me
 [Catch 22 - 1234](https://www.youtube.com/watch?v=Ffa2ln1DgvE)  
 [Catch 22 - Keasbey Nights](https://www.youtube.com/watch?v=syCMHtNUlLE)  
 [CHAI - N.E.O.](https://www.youtube.com/watch?v=YMGf3zyhG94)  
+[Charli xcx - 360](https://www.youtube.com/watch?v=WJW-VvmRKsE)  
 [Chase And Status - No Problem feat. Takura](https://www.youtube.com/watch?v=rPRkYWVinF0)  
 [Chase And Status Feat Cee-Lo Green - Brixton Briefcase](https://www.youtube.com/watch?v=-QahyG8f8Sc)  
 [Chase And Status Feat Plan B - Pieces](https://www.youtube.com/watch?v=8MJspL232c8)  
@@ -304,6 +309,7 @@ Busta Rhymes - Don’t Touch Me
 [Chemical Brothers - In Dust We Trust](https://www.youtube.com/watch?v=6iiGQmWCCyI)  
 [Children Of Bodom - Trashed, Lost And Strungout](https://www.youtube.com/watch?v=XVifw7Atg2Y)  
 [Chimaira - Needle](https://www.youtube.com/watch?v=wlLd7wN_9Gs)  
+[Chisel, The - So Do I](https://www.youtube.com/watch?v=hjIHhg_jMaE)  
 [Chris Cornell - Mission 2000](https://www.youtube.com/watch?v=VqSz16Wgs_0)  
 [Chris Cornell - Moonchild](https://www.youtube.com/watch?v=ZaMfgtnGpTY)  
 Chris Cornell - Pillow Of Your Bones (&Dina Ichilov)  
@@ -316,6 +322,7 @@ Clash, The - Rock The Casbah
 [Clawfinger - Pin Me Down](https://www.youtube.com/watch?v=ZDyxgGYjrrM) (&Tal Tsabar)  
 [Cleave - The Circle](https://www.youtube.com/watch?v=VB8DxcrV0aw)  
 [Clipping. - All Black](https://www.youtube.com/watch?v=hwN8WVEy_H8)  
+[clipping. - Change the Channel](https://www.youtube.com/watch?v=fwI1FqU_qk0)  
 [Clipping. - Inside Out](https://www.youtube.com/watch?v=1tFXIy7OWos)  
 [Clipping. - Shooter](https://www.youtube.com/watch?v=nm65PCbUMZI)  
 [Clipping. - Story 2](https://www.youtube.com/watch?v=XbU9UUwxBxA)  
@@ -681,6 +688,7 @@ Johnny Cash - Man Comes Around
 [Johnossi - Execution song](https://www.youtube.com/watch?v=drlFuFPG3gk)  
 [Jonny Lang - Beautiful One](https://www.youtube.com/watch?v=xi67r6shjFI)  
 [Jonny Lang - Walking Away](https://www.youtube.com/watch?v=Olk7mNK-VyE)
+[Judy and Mary](https://www.youtube.com/watch?v=0DBkXcDU270) ([Rurouni Kenshin - Freckles](https://www.youtube.com/watch?v=Ypj2liwkS4o))  
 
 ## K
 [Kalmah - Heroes To Us](https://www.youtube.com/watch?v=rRsdU-kh_pw)  
@@ -704,8 +712,9 @@ Johnny Cash - Man Comes Around
 [King Charles - We Didn’t Start The Fire](https://www.youtube.com/watch?v=mE8aROD20Kw)  
 [Kings of Convenience - Homesick](https://www.youtube.com/watch?v=oll6UfK6iUg)  
 [Kittie - Brackish](https://www.youtube.com/watch?v=j2-5VAmOAz8)  
-[K.I.Z. ft. Bela B. - Hölle](https://www.youtube.com/watch?v=xaaMOANVNeg)  
 [K.I.Z. - Geld essen](https://www.youtube.com/watch?v=veBaB_JEBrA)  
+[K.I.Z. - Görlitzer Park](https://www.youtube.com/watch?v=J-tgIACf6_c)  
+[K.I.Z. - Hölle ft. Bela B.](https://www.youtube.com/watch?v=xaaMOANVNeg)  
 [K.I.Z. - Hurra die Welt geht unter ft. Henning May](https://www.youtube.com/watch?v=XTPGpBBwt1w)  
 [K.I.Z. - Ich könnte deine Mutter oder deine Schwester sein](https://www.youtube.com/watch?v=c2cxzy-Dar4)  
 [Khaled, DJ - Nas Album Done ft Nas](https://www.youtube.com/watch?v=kUygnhd7OSQ)  
@@ -794,6 +803,8 @@ Mad Capsule Markets, The - Tribe
 [Maggie Reilly - Everytime We Touch](https://www.youtube.com/watch?v=hTyCLMA90xM)  
 Manic Street Preachers - If You Tolerate This Your Children Will Be Next  
 [Manic Street Preachers - (It’s Not War) Just The End Of Love](https://www.youtube.com/watch?v=Jz2gvAApY2A)  
+[Mannequin Pussy - I Don't Know You](https://www.youtube.com/watch?v=RQMzRf3XghQ)  
+[Mannequin Pussy - I Got Heaven](https://www.youtube.com/watch?v=EvgYIXc4JDA)  
 [Mannequin Pussy - Kiss](https://www.youtube.com/watch?v=vMIi99Iy_Xo)  
 [Mannequin Pussy - Perfect](https://www.youtube.com/watch?v=_qnvvya2Qhk)  
 [Mannequin Pussy - Pigs Is Pigs](https://www.youtube.com/watch?v=DE2rLAbqzyc)  
@@ -817,6 +828,7 @@ Mars Volta, The - Wasting My Air
 Massive Attack - Dissolved Girl  
 [Massive Attack - Man Next Door](https://www.youtube.com/watch?v=S71_vIMQ0YY)  
 [Matterhorn Project - Muh](https://www.youtube.com/watch?v=CR3FCY9P4xo)  
+[Maya Delilah - Harvest Moon](https://www.youtube.com/watch?v=Q-YMJwfBEA4)  
 [Maylene And The Sons Of Disaster - Step Up (I’m On It)](https://www.youtube.com/watch?v=rNgYa39BQIw)  
 Maylene And The Sons Of Disaster - Dry The River  
 [Maylene And The Sons Of Disaster - Just A Shock](https://www.youtube.com/watch?v=c3K3TUMr4CY)  
@@ -925,6 +937,7 @@ Nick Cave And The Bad Seeds - O’mally’s Bar
 [Nofx - Ronnie & Mags](https://www.youtube.com/watch?v=wsBzV0FYi_8)  
 [Nofx - Seeing Double At The Triple Rock](https://www.youtube.com/watch?v=9d9D_W1PbQc)  
 [Nofx - Separation Of Church And Skate](https://www.youtube.com/watch?v=dYLqvfckh-U)  
+[Nofx - Stickin' In My Eye](https://www.youtube.com/watch?v=A2vn18DVSbU)  
 [Nofx - The Irrationality of Rationality](https://www.youtube.com/watch?v=qJv7xu9kqbg)  
 [Nofx - We Got Two Jealous Agains](https://www.youtube.com/watch?v=CerXeYXWEqo)  
 [Not Called Jinx - New Beginnings](https://www.youtube.com/watch?v=O43zwE658os)  
@@ -1165,8 +1178,7 @@ Rise Against - Survive
 [Rudimental - Waiting All Night ft. Ella Eyre](https://www.youtube.com/watch?v=M97vR2V4vTs)  
 [Run The Jewels - A Christmas F\*cking Miracle](https://www.youtube.com/watch?v=OQ5rI461KNE)  
 [Run The Jewels - A Report To The Shareholders / Kill Your Masters](https://www.youtube.com/watch?v=pg0byaqVaXo)  
-[Run The Jewels - Legend Has It](https://www.youtube.com/watch?v=vWaljXUiCaE)  
-[Rurouni Kenshin - Freckles](https://www.youtube.com/watch?v=n2A_Xwg-KWg)  
+[Run The Jewels - Legend Has It](https://www.youtube.com/watch?v=vWaljXUiCaE)   
 [RZA - Afro Samurai](https://www.youtube.com/watch?v=f7HgqicLjwk)  
 [RZA - Fury In My Eyes](https://www.youtube.com/watch?v=tLxjlBnla7Y)
 
@@ -1208,6 +1220,7 @@ Rise Against - Survive
 [Shadow, DJ feat. Run The Jewels - Nobody Speak](https://www.youtube.com/watch?v=NUC2EQvdzmY)  
 [Shattering - Next Door, Dead Whore](https://www.youtube.com/watch?v=Hw_KZRlgBwU)  
 [Shift - This Pain](https://www.youtube.com/watch?v=2CwMIFaJgrU)  
+[Shinsei Kamattechan - My War (Boku no Sensou)](https://www.youtube.com/watch?v=goXKlOozyx8)  
 [Shitlers, Die - Dreh den Swag auf](https://www.youtube.com/watch?v=iK0NVoNgrOQ)  
 [ShworchtseChaye - I Blame](https://www.youtube.com/watch?v=4XGGyxhy2As)  
 ShworchtseChaye - Mass Dysfunction  
@@ -1291,13 +1304,14 @@ Static-X - Push It (&Yuval Kogman)
 Static-X - Stingray  
 Steely Dan - Reelin’ In The Years  
 Stormlord - I Am Legend  
+[Story So Far, The - Letterman](https://www.youtube.com/watch?v=Tr-0R590JhM)  
 Stranglers, The - Golden Brown  
 [Stratovarius - Eagleheart](https://www.youtube.com/watch?v=UGJV6cJkFcc)  
 [Stratovarius - Hunting High And Low](https://www.youtube.com/watch?v=9-4Gm6VG4O0)  
 [Stray From The Path - Badge & A Bullet](https://www.youtube.com/watch?v=DxnjdXOxLCU)  
 [Stray From The Path - Damien](https://www.youtube.com/watch?v=16GOVJxsci8)  
 [Street Sweeper Social Club - 100 Little Curses](https://www.youtube.com/watch?v=PGhLQScRElI)  
-[Street Sweeper Social Club - Promenade (Radio Remix)](https://www.youtube.com/watch?v=oXX2YIOVkX8)  
+[Street Sweeper Social Club - Promenade (Radio Remix)](https://www.youtube.com/watch?v=teq0X8rXVXc)  
 Stretch Armstrong - Faces  
 [Sub Dub Micromachine - Road To Nowhere](https://www.youtube.com/watch?v=PA8TaIcJCqY)  
 [Sub Focus - Splash](https://www.youtube.com/watch?v=jkQNrGrMLrU)  
